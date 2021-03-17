@@ -1,0 +1,1522 @@
+﻿date_captured,road_name,section_start,section_end,suburb,direction_1,vehicles_1,direction_2,vehicles_2,volume_per_day,85th_percentile_speed
+2015-Jan,Butler Street,Jonas Street,Shelley Street,Richmond,East/North,192,West/South,261,453,28.4
+2015-Jan,Rae Street,Liverpool Street,Scotchmer Street,Fitzroy North,East/North,1115,West/South,784,1899,40.7
+2015-Jan,Rae Street,Reid Street,Scotchmer Street,Fitzroy North,East/North,955,West/South,1531,2486,40.7
+2015-Jan,Shelley Street,Butler Street,Victoria Street,Richmond,East/North,1659,West/South,1638,3297,35.3
+2010-Jan,Hood Street,Hoddle Street,Islington Street,Collingwood,East/North,438,West/South,12,450,32
+2019-Feb,Fraser Street,Bridge Road,Corsair Street,Richmond,East/North,327,West/South,487,814,36.6
+2019-Feb,Jamieson Street,McKean Street,Queens Parade,Fitzroy North,East/North,742,West/South,698,1440,38.6
+2019-Feb,Laneway (rear of 106-160 Nicholson St),Gipps Street,Harper Street,Abbotsford,East/North,28,West/South,37,65,24.5
+2019-Feb,Parkville Street,Stawell Street,Gibdon Street,Richmond,East/North,94,West/South,2,96,30.4
+2019-Feb,ROW 374 (parralel to Canning Street),Curtain Street,Fenwick Street,Carlton North,East/North,29,West/South,11,40,35.04
+2019-Feb,Stawell Street,Madden Grove,Parkville Street,Richmond,East/North,271,West/South,336,607,33.2
+2018-Feb,Clifton Avenue,Ramsden Street,Roseneath Street,Clifton Hill,East/North,2,West/South,967,969,40
+2018-Feb,Eddy Court,Stanton Street,main car park,Abbotsford,East/North,124,West/South,131,255,23
+2018-Feb,Gibdon Street,Crimea Street,Parkville Street,Burnley,East/North,244,West/South,1992,2236,42
+2018-Feb,Gibdon Street,Crimea Street,Parkville Street,Richmond,East/North,244,West/South,1992,2236,42.21
+2018-Feb,Johnson Street,Jubilee Place,Lincoln Street,Richmond,East/North,926,West/South,357,1283,41.8
+2018-Feb,Little Hoddle Street,Elizabeth Street,Victoria Street,Richmond,East/North,77,West/South,44,121,30.6
+2018-Feb,MacPherson Street,McIlwraith Street,Wilson Street,Carlton North,East/North,1341,West/South,841,2182,46.4
+2018-Feb,McKean Street,Delbridge Street,Michael Street,Fitzroy North,East/North,1110,West/South,1103,2213,43.6
+2018-Feb,Rule Street,Bromham Place,Church Street,Richmond,East/North,512,West/South,3,515,36.4
+2018-Feb,The Esplanade,Spensley Street,Walker Street,Clifton Hill,East/North,717,West/South,534,1251,43
+2018-Feb,Walker Street,Dwyer Street,Fenwick Street,Clifton Hill,East/North,345,West/South,431,776,45.7
+2018-Feb,Walker Street,Dwyer Street,The Esplanade,Clifton Hill,East/North,665,West/South,513,1178,48.6
+2018-Feb,Wright Street,Dwyer Street,Yambla Street,Clifton Hill,East/North,634,West/South,491,1125,42.8
+2018-Feb,Yarra Street,Hunter Street,Paterson Street,Abbotsford,East/North,104,West/South,162,266,34.4
+2017-Feb,Barkly Street,Dean Street,Melville Street,Fitzroy North,East/North,700,West/South,748,1448,37.4
+2017-Feb,Berry Street,Church Street,Waltham Street,Richmond,East/North,6,West/South,105,111,31.4
+2017-Feb,Budd Street,Alexandra Parade,Mater Street,Collingwood,East/North,205,West/South,64,269,40.7
+2017-Feb,Dean Street,Barkly Street,Holden Street,Fitzroy North,East/North,1065,West/South,399,1464,39.6
+2017-Feb,Easey Street,Gold Street,Wellington Street,Collingwood,East/North,408,West/South,312,720,43.6
+2017-Feb,Easey Street,Gold Street,Hoddle Street,Collingwood,East/North,444,West/South,315,759,43.6
+2017-Feb,Gold Street,Alexandra Parade,Mater Street,Collingwood,East/North,353,West/South,228,581,38.5
+2017-Feb,Gold Street,Hotham Street,Mater Street,Collingwood,East/North,414,West/South,409,823,40
+2017-Feb,Grattan Place,Richmond Terrace,Rowena Parade,Richmond,East/North,2,West/South,141,143,25.6
+2017-Feb,Grattan Place,Richmond Terrace,Rowena Parade,Richmond,East/North,3,West/South,141,144,20.9
+2017-Feb,Holtom Street West,Arnold Street,Bowen Crescent,Carlton North,East/North,529,West/South,555,1084,37.1
+2017-Feb,Hotham Street,Gold Street,Hoddle Street,Collingwood,East/North,309,West/South,447,756,42.5
+2017-Feb,Hotham Street,Budd Street,Smith Street,Collingwood,East/North,353,West/South,501,854,37.1
+2017-Feb,Hotham Street,Emma Street,Wellington Street,Collingwood,East/North,384,West/South,533,917,37.1
+2017-Feb,Hotham Street,Charlotte Street,Wellington Street,Collingwood,East/North,541,West/South,497,1038,41
+2017-Feb,Keele Street,Gold Street,Wellington Street,Collingwood,East/North,527,West/South,363,890,37.8
+2017-Feb,Lane number 245.1,Singleton Street,Vere Street,Collingwood,East/North,3,West/South,4,7,22
+2017-Feb,Lane number 245.1,Gipps Street,Singleton Street,Collingwood,East/North,46,West/South,135,181,18.7
+2017-Feb,MacPherson Street,Arnold Street,Wilson Street,Carlton North,East/North,934,West/South,285,1219,43.2
+2017-Feb,Masons Lane,Johnston Street,Valiant Street,Abbotsford,East/North,4,West/South,10,14,18
+2017-Feb,Moor Street,George Street,Napier Street,Fitzroy,East/North,1285,West/South,1185,2470,35.6
+2017-Feb,Newry Street,Canning Street,Rathdowne Street,Carlton North,East/North,368,West/South,398,766,42.1
+2017-Feb,Pilkington Street,Barkly Street,Holden Street,Fitzroy North,East/North,299,West/South,336,635,40.7
+2017-Feb,Ramsden Street,Berry Street,Fenwick Street,Clifton Hill,East/North,858,West/South,1040,1898,38.9
+2017-Feb,Rose Street,Coppin Street,Rooney Street,Richmond,East/North,174,West/South,26,200,31
+2017-Feb,Rose Street,Brunswick Street,Fitzroy Street,Fitzroy,East/North,693,West/South,791,1484,25.2
+2017-Feb,Sackville Street,Gold Street,Wellington Street,Collingwood,East/North,962,West/South,347,1309,40.7
+2017-Feb,Scotchmer Street,Nicholson Street,Rae Street,Fitzroy North,East/North,2745,West/South,3235,5980,42.5
+2017-Feb,Trenerry Crescent,Abbott Street,Turner Street,Abbotsford,East/North,4093,West/South,2815,6908,39.6
+2017-Feb,York Street,New Street,Regent Street,Richmond,East/North,882,West/South,581,1463,34.9
+2016-Feb,Canning Street,Davis Street,Lee Street,Carlton North,East/North,352,West/South,395,747,37.1
+2016-Feb,Davis Street,Canning Street,Rathdowne Street,Carlton North,East/North,545,West/South,247,792,46.1
+2016-Feb,Dover Street,Fitzgibbon Street,Kelso Street,Richmond,East/North,4,West/South,608,612,38.5
+2016-Feb,Hodgkinson Street,Smith Street,Wellington Street,Clifton Hill,East/North,356,West/South,483,839,36.4
+2016-Feb,Hotham Street,Gold Street,Hoddle Street,Collingwood,East/North,309,West/South,446,755,42.5
+2016-Feb,Lane number 213,Little Oxford Street,Oxford Street,Collingwood,East/North,3,West/South,14,17,14
+2016-Feb,Lee Street,Canning Street,Rathdowne Street,Carlton North,East/North,4,West/South,308,312,33.5
+2016-Feb,Lee Street,Canning Street,Station Street,Carlton North,East/North,336,West/South,599,935,35.3
+2016-Feb,Station Street,Lee Street,Newry Street,Carlton North,East/North,164,West/South,739,903,39.2
+2016-Feb,Wellington Street,Derby Street,Victoria Parade,Collingwood,East/North,3842,West/South,4713,8555,36
+2016-Feb,Wellington Street,Derby Street,Langridge Street,Collingwood,East/North,4727,West/South,4829,9556,39.6
+2016-Feb,Wellington Street,Gipps Street,Peel Street,Collingwood,East/North,5528,West/South,6793,12321,40.3
+2015-Feb,Albert Street,Brighton Street,Church Street,Richmond,East/North,684,West/South,471,1155,38.5
+2015-Feb,Arnold Street,Paterson Street,Richardson Street,Carlton North,East/North,1,West/South,413,414,31.7
+2015-Feb,Arnold Street,Paterson Street,Pigdon Street,Carlton North,East/North,392,West/South,357,749,38.5
+2015-Feb,Bowen Crescent,Garton Street,Pigdon Street,Carlton North,East/North,1468,West/South,1001,2469,38.2
+2015-Feb,Bowen Crescent,Holtom Street West,Pigdon Street,Carlton North,East/North,3570,West/South,3756,7326,33.8
+2015-Feb,Bowen Crescent,Lang Street,Park Street,Carlton North,East/North,4525,West/South,3992,8517,38.9
+2015-Feb,Garton Street,Paterson Street,Richardson Street,Carlton North,East/North,2037,West/South,494,2531,35.3
+2015-Feb,Holtom Street West,Arnold Street,Garton Street,Carlton North,East/North,497,West/South,538,1035,37.8
+2015-Feb,Jonas Street,Butler Street,Victoria Street,Richmond,East/North,1252,West/South,15,1267,34.9
+2015-Feb,Lesney Street,Church Street,Mary Street,Richmond,East/North,2,West/South,681,683,36
+2015-Feb,Lygon Street,Holtom Street East,Park Street,Carlton North,East/North,11398,West/South,0,11398,49.7
+2015-Feb,Lygon Street,Paterson Street,Richardson Street,Carlton North,East/North,12068,West/South,0,12068,55.4
+2015-Feb,Lygon Street,Holtom Street East,Park Street,Carlton North,East/North,0,West/South,11587,11587,51.5
+2015-Feb,Lygon Street,Paterson Street,Richardson Street,Carlton North,East/North,0,West/South,12497,12497,53.3
+2015-Feb,MacPherson Street,McIlwraith Street,Wilson Street,Carlton North,East/North,1188,West/South,872,2060,49.7
+2015-Feb,Madden Grove,Gibdon Street,Loyola Grove,Richmond,East/North,1445,West/South,1796,3241,41.8
+2015-Feb,McIlwraith Street,Holtom Street East,Pigdon Street,Carlton North,East/North,7,West/South,295,302,35.3
+2015-Feb,McIlwraith Street,Cassar Place,Holtom Street East,Carlton North,East/North,151,West/South,188,339,35.6
+2015-Feb,McIlwraith Street,Paterson Street,Richardson Street,Carlton North,East/North,358,West/South,250,608,43.9
+2015-Feb,Park Street,McIlwraith Street,Wilson Street,Carlton North,East/North,575,West/South,654,1229,41
+2015-Feb,Park Street,Bowen Crescent,Garton Street,Carlton North,East/North,0,West/South,2785,2785,39.6
+2015-Feb,Pigdon Street,McIlwraith Street,Wilson Street,Carlton North,East/North,3427,West/South,2731,6158,41
+2015-Feb,Rae Street,Newry Street,York Street,Fitzroy North,East/North,326,West/South,1441,1767,36.7
+2015-Feb,Reid Street,Nicholson Street,Rae Street,Fitzroy North,East/North,4001,West/South,3817,7818,38.5
+2015-Feb,Richardson Street,McIlwraith Street,Wilson Street,Carlton North,East/North,393,West/South,574,967,45
+2015-Feb,Stawell Street,Barkly Avenue,Madden Grove,Richmond,East/North,252,West/South,225,477,40.3
+2015-Feb,Wellington Street,Derby Street,Victoria Parade,Collingwood,East/North,3975,West/South,5272,9247,47.2
+2015-Feb,Wellington Street,Gipps Street,Langridge Street,Collingwood,East/North,5370,West/South,6229,11599,45.4
+2015-Feb,Wilson Street,Cassar Place,Pigdon Street,Carlton North,East/North,374,West/South,192,566,38.2
+2015-Feb,Wilson Street,Paterson Street,Richardson Street,Carlton North,East/North,520,West/South,366,886,45
+2015-Feb,Yarra Street,Hoddle Street,Park Street,Abbotsford,East/North,456,West/South,13,469,37.1
+2014-Feb,Abinger Street,Hosie Street,Spencer Place,Richmond,East/North,531,West/South,454,985,34.6
+2014-Feb,Albert Street,Brighton Street,Church Street,Richmond,East/North,687,West/South,472,1159,38.5
+2014-Feb,Alphington Street,Heidelberg Road,Park Crescent,Alphington,East/North,193,West/South,217,410,40.3
+2014-Feb,Berry Street,Ramsden Street,Spensley Street,Clifton Hill,East/North,575,West/South,914,1489,50
+2014-Feb,Bosisto Street,Cameron Street,Hull Street,Richmond,East/North,354,West/South,285,639,39.6
+2014-Feb,Brighton Street,Prince Patrick Street,Yorkshire Street,Richmond,East/North,1164,West/South,712,1876,42.1
+2014-Feb,Brougham Street,Church Street,Lyndhurst Street,Richmond,East/North,685,West/South,424,1109,35.3
+2014-Feb,Charles Street,Charlotte Street,Swan Street,Richmond,East/North,663,West/South,732,1395,36.7
+2014-Feb,Charlotte Street,Charles Street,Church Street,Richmond,East/North,317,West/South,339,656,41.4
+2014-Feb,Coppin Street,Benson Street,Wall Street,Richmond,East/North,3341,West/South,3375,6716,37.8
+2014-Feb,Coppin Street,Abinger Street,Wall Street,Richmond,East/North,3357,West/South,4450,7807,40.3
+2014-Feb,Elm Grove,Charles Street,Church Street,Richmond,East/North,390,West/South,426,816,36.7
+2014-Feb,Fenwick Street,O'Grady Street,Spensley Street,Clifton Hill,East/North,2532,West/South,1036,3568,38.5
+2014-Feb,Fitzroy Street,Argyle Street,Johnston Street,Fitzroy,East/North,15,West/South,656,671,29.5
+2014-Feb,Gipps Street,Charles Street,Nicholson Street,Abbotsford,East/North,3934,West/South,4654,8588,37.1
+2014-Feb,Gordon Street,Chestnut Street,Walnut Street,Richmond,East/North,152,West/South,317,469,22.3
+2014-Feb,Grant Street,Ramsden Street,Spensley Street,Clifton Hill,East/North,353,West/South,586,939,47.5
+2014-Feb,Hull Street,Bosisto Street,Thomas Street,Richmond,East/North,220,West/South,280,500,32.4
+2014-Feb,Judd Street,Bridge Road,Cameron Street,Richmond,East/North,294,West/South,198,492,29.9
+2014-Feb,Kelso Street,Cubitt Street,Stephenson Street,Richmond,East/North,223,West/South,275,498,30.2
+2014-Feb,Lane number 307,Nicholson Street,Park Street,Abbotsford,East/North,18,West/South,19,37,27
+2014-Feb,Lesney Street,Church Street,Mary Street,Richmond,East/North,2,West/South,681,683,36
+2014-Feb,Malleson Street,Lyndhurst Street,Mary Street,Richmond,East/North,451,West/South,462,913,40.3
+2014-Feb,Mary Street,Benson Street,Wall Street,Richmond,East/North,5,West/South,331,336,35.6
+2014-Feb,Mary Street,Benson Street,McNamara Street,Richmond,East/North,4,West/South,488,492,33.8
+2014-Feb,South Terrace,Gold Street,Hoddle Street,Clifton Hill,East/North,1473,West/South,1890,3363,38.2
+2014-Feb,St Georges Road,Freeman Street,Nicholson Street,Fitzroy North,East/North,201,West/South,505,706,39.6
+2014-Feb,Yarra Bend Road,Fairlea Road,Heidelberg Road,Alphington,East/North,2608,West/South,2556,5164,43.6
+2013-Feb,Baker Street,Johnson Street,Lambert Street,Richmond,East/North,2691,West/South,1903,4594,38.2
+2013-Feb,Cutter Street,Bliss Street,Farmer Street,Richmond,East/North,640,West/South,11,651,34.6
+2013-Feb,Gwynne Street,Balmain Street,Munro Street,Richmond,East/North,309,West/South,306,615,34.9
+2013-Feb,Nicholson Street,Langridge Street,Victoria Street,Abbotsford,East/North,3659,West/South,3375,7034,40.7
+2013-Feb,Reid Street,Brunswick Street,Seacombe Street,Fitzroy North,East/North,2208,West/South,3147,5355,43.9
+2013-Feb,Rowena Parade,Church Street,Portland Street,Richmond,East/North,313,West/South,395,708,38.2
+2013-Feb,Somerset Street,Church Street,Newlands Street,Richmond,East/North,314,West/South,449,763,36
+2013-Feb,Station Street,Mary Street,Pigdon Street,Carlton North,East/North,402,West/South,474,876,44.3
+2013-Feb,Station Street,MacPherson Street,Richardson Street,Carlton North,East/North,326,West/South,619,945,38.9
+2013-Feb,Station Street,Curtain Street,Newry Street,Carlton North,East/North,271,West/South,709,980,41
+2013-Feb,The Vaucluse,Church Street,Rowena Parade,Richmond,East/North,246,West/South,330,576,32
+2013-Feb,Westgarth Street,Napier Street,Young Street,Fitzroy,East/North,1302,West/South,1336,2638,36.7
+2012-Feb,Austin Street,Heidelberg Road,Park Crescent,Alphington ,East/North,160,West/South,217,377,37.4
+2012-Feb,Brunswick Street North,Park Street,Scotchmer Street,Fitzroy North,East/North,777,West/South,1073,1850,41.8
+2012-Feb,Buckingham Street,Gardner Street,Johnson Street,Richmond,East/North,1366,West/South,1547,2913,39.2
+2012-Feb,Forest Street,Alexandra Parade,Hotham Street,Collingwood ,East/North,44,West/South,48,92,38.5
+2012-Feb,Lennox Street,Goodwood Street,Bridge Road,Richmond ,East/North,3508,West/South,4292,7800,39.6
+2012-Feb,Napier Street,Cecil Street,Westgarth Street,Fitzroy ,East/North,643,West/South,512,1155,26.3
+2012-Feb,Nicholson Street,Langridge Street,Victoria Street,Abbotsford ,East/North,3205,West/South,3326,6531,42.5
+2012-Feb,Northcote Street,Brighton Street,Church Street,Richmond ,East/North,66,West/South,21,87,25.9
+2012-Feb,Oxford Street,Derby Street,Landridge Street,Collingwood ,East/North,300,West/South,413,713,27
+2012-Feb,Walnut Street,Balmain Street,Gordon Street,Richmond ,East/North,90,West/South,55,145,23.4
+2012-Feb,Wilson Street,Pigdon Street,Solly Avenue,Carlton North,East/North,313,West/South,227,540,42.8
+2011-Feb,Blanche Street,Alexandra Parade,Mater Street,Collingwood,East/North,117,West/South,64,181,35.3
+2011-Feb,Bliss Street,Burnley Street,Cutter Street,Richmond,East/North,201,West/South,13,214,31
+2011-Feb,Cutter Street,Bliss Street,Farmer Street,Richmond,East/North,305,West/South,9,314,33.5
+2011-Feb,Egan Street,Hoddle Street,New Street,Richmond,East/North,339,West/South,262,601,37.1
+2011-Feb,Emma Street,Alexandra Parade,Mater Street,Collingwood,East/North,165,West/South,158,323,37.8
+2011-Feb,Fitzroy Street,Bell Street,Greeves Street,Fitzroy  ,East/North,129,West/South,68,197,29.9
+2011-Feb,Little Charles Street,Little Charles Close,Victoria Street,Abbotsford ,East/North,6,West/South,62,68,32.9
+2011-Feb,Michael Street,Falconer Street,Rowe Street,Fitzroy North,East/North,3339,West/South,0,3339,48.2
+2011-Feb,Michael Street,Falconer Street,Rowe Street,Fitzroy North,East/North,0,West/South,3381,3381,42.8
+2011-Feb,Miller Street,Nicholson Street,Taylor Street,Fitzroy North,East/North,833,West/South,838,1671,50.4
+2011-Feb,Miller Street,Rae Street,Taylor Street,Fitzroy North,East/North,991,West/South,965,1956,37.4
+2011-Feb,Miller Street,Nicholson Street,Taylor Street,Fitzroy North,East/North,1234,West/South,1053,2287,40.3
+2011-Feb,Miller Street,King Street,Rae Street,Fitzroy North,East/North,1235,West/South,1115,2350,40.3
+2011-Feb,Miller Street,King Street,Ida Street,Fitzroy North,East/North,1249,West/South,1115,2364,38.5
+2011-Feb,Miller Street,Ida Street,St Georges Road,Fitzroy North,East/North,1723,West/South,1487,3210,38.5
+2011-Feb,Park Street,Bennett Street,Kneen Street,Fitzroy North,East/North,2598,West/South,2714,5312,45
+2011-Feb,Reid Street,Brunswick Street,Rae Street,Fitzroy North,East/North,2256,West/South,2789,5045,43.6
+2011-Feb,Smith Street,Lennox Street,Shelley Street,Richmond,East/North,385,West/South,130,515,42.5
+2011-Feb,Stillman Street,Burnley Street,Type Street,Richmond,East/North,196,West/South,253,449,41.8
+2011-Feb,Trenerry Crescent,Abbott Street,Turner Street,Abbotsford ,East/North,4192,West/South,2396,6588,42.5
+2011-Feb,York Street,Hoddle Street,Regent Street,Richmond,East/North,1197,West/South,228,1425,35.6
+2010-Feb,Balmain Street,Church Street,Green Street,Richmond,East/North,2587,West/South,3369,5956,45.4
+2010-Feb,Budd Street,Hotham Street,Keele Street,Collingwood,East/North,374,West/South,242,616,33.8
+2010-Feb,Charles Street,Elm Grove,Swan Street,Richmond,East/North,508,West/South,622,1130,44.6
+2010-Feb,Davison Street,Highett Street,Somerset Street,Richmond,East/North,1244,West/South,817,2061,43.2
+2010-Feb,Gold Street,Hotham Street,Mater Street,Collingwood,East/North,501,West/South,376,877,43.9
+2010-Feb,Highett Street,Burnley Street,Davison Street,Richmond,East/North,4268,West/South,5689,9957,41.8
+2010-Feb,Hodgkinson Street,Gold Street,Turnbull Street,Clifton Hill,East/North,727,West/South,401,1128,41.4
+2010-Feb,Little George Street,Gertrude Street,Webb Street,Fitzroy,East/North,73,West/South,10,83,31.7
+2010-Feb,Newry Street,Burnley Street,Edinburgh Street,Richmond,East/North,688,West/South,1085,1773,42.8
+2010-Feb,Park Street,Amess Street,Canning Street,Carlton North,East/North,1842,West/South,2316,4158,51.8
+2010-Feb,Park Street,Drummond Street,Rathdowne Street,Carlton North,East/North,2061,West/South,2192,4253,50
+2010-Feb,Rokeby Street,Gipps Street,Langridge Street,Collingwood,East/North,26,West/South,542,568,37.8
+2010-Feb,Scotchmer Street,Nicholson Street,Rae Street,Fitzroy North,East/North,3786,West/South,3639,7425,44.3
+2010-Feb,Wellington Street,Hotham Street,Keele Street,Collingwood,East/North,6184,West/South,5995,12179,50
+2010-Feb,Young Street,Gertrude Street,Graham Street,Fitzroy,East/North,471,West/South,19,490,37.1
+2009-Feb,Drummond Street,Lee Street,Newry Street,Carlton North,East/North,300,West/South,952,1252,49.7
+2009-Feb,Lee Street,Drummond Street,Lygon Street,Carlton North,East/North,25,West/South,372,397,41
+2019-Mar,Condell Street,Napier Street,George Street,Fitzroy,East/North,237,West/South,3,240,32.2
+2019-Mar,Gore Street,Condell Street,Charles Street,Fitzroy,East/North,1278,West/South,912,2190,39
+2019-Mar,Little Nicholson Street,Mollison Street,Gipps Street,Abbotsford,East/North,67,West/South,73,140,30.3
+2019-Mar,Newland Street,Somerset Street,Kent Street,Richmond ,East/North,176,West/South,117,293,34.8
+2019-Mar,Wellington Street,Otter Street,Vere Street,Collingwood,East/North,6658,West/South,7345,14003,41.76
+2018-Mar,West Street,Burnley Street,Gumbri Lane,Burnley,East/North,260,West/South,7,267,27.7
+2017-Mar,Buckingham Street,Gardner Street,Johnson Street,Richmond,East/North,1579,West/South,1755,3334,40.1
+2017-Mar,Byrne Street,Holden Street,St Georges Road,Fitzroy North,East/North,235,West/South,169,404,32.8
+2017-Mar,Cameron Street,Lennox Street,Thomas Street,Richmond,East/North,8,West/South,621,629,34.2
+2017-Mar,Cecil Street,Napier Street,Young Street,Fitzroy,East/North,7,West/South,153,160,28.2
+2017-Mar,Chapel Street,Church Street,Walnut Street,Richmond,East/North,6,West/South,652,658,34.5
+2017-Mar,Davison Street,Buckingham Street,Kent Street,Richmond,East/North,598,West/South,1101,1699,38.5
+2017-Mar,Emma Street,Alexandra Parade,Mater Street,Collingwood,East/North,153,West/South,86,239,35.3
+2017-Mar,Erin Street,Hoddle Street,Lennox Street,Richmond,East/North,1504,West/South,1635,3139,37.8
+2017-Mar,Fitzroy Street,Kerr Street,Rose Street,Fitzroy,East/North,60,West/South,78,138,15.3
+2017-Mar,Green Street,Adelaide Street,Chapel Street,Richmond,East/North,544,West/South,6,550,33.5
+2017-Mar,Highett Street,Freeman Street,Lennox Street,Richmond,East/North,2054,West/South,3477,5531,41.8
+2017-Mar,Hilton Street,Alexandra Parade,Council Street,Clifton Hill,East/North,48,West/South,135,183,38.2
+2017-Mar,Kent Street,Davidson Street,Gardner Street,Richmond,East/North,341,West/South,424,765,34.4
+2017-Mar,Kerr Street,Nicholson Street,Spring Street,Fitzroy,East/North,1022,West/South,586,1608,31.4
+2017-Mar,Kerr Street,Brunswick Street,Fitzroy Street,Fitzroy,East/North,1124,West/South,510,1634,29.7
+2017-Mar,Mark Street,Falconer Street,Scotchmer Street,Fitzroy North,East/North,3,West/South,462,465,39.6
+2017-Mar,Neptune Street,Bridge Road,Corsair Street,Richmond,East/North,213,West/South,284,497,34.6
+2017-Mar,Newry Street,Canning Street,Rathdowne Street,Carlton North,East/North,365,West/South,395,760,41
+2017-Mar,Newry Street,Burnley Street,Edinburgh Street,Richmond,East/North,774,West/South,1175,1949,34.9
+2017-Mar,Pigdon Street,Amess Street,Rathdowne Street,Carlton North,East/North,2560,West/South,2470,5030,42.1
+2017-Mar,Richardson Street,Nicholson Street,Station Street,Carlton North,East/North,1863,West/South,2426,4289,38.5
+2017-Mar,Richmond Terrace,Clifton Street,Waverley Street,Richmond,East/North,817,West/South,657,1474,43.8
+2017-Mar,Rose Street,Nicholson Street,Spring Street,Fitzroy,East/North,380,West/South,482,862,25.5
+2017-Mar,Rose Street,Fitzroy Street,Spring Street,Fitzroy,East/North,549,West/South,455,1004,22.7
+2017-Mar,Rose Street,Brunswick Street,Fitzroy Street,Fitzroy,East/North,655,West/South,731,1386,27.5
+2017-Mar,Rowena Parade,Miller Street,Punt Road,Richmond,East/North,1046,West/South,1180,2226,35.3
+2017-Mar,Somerset Street,Burnley Street,Davison Street,Richmond,East/North,361,West/South,394,755,39.3
+2017-Mar,Spring Street,Kerr Street,Rose Street,Fitzroy,East/North,139,West/South,329,468,28.7
+2017-Mar,Stawell Street,Manton Street,Stillman Street,Richmond,East/North,689,West/South,717,1406,38.9
+2017-Mar,Westgarth Street,Brunswick Street,Fitzroy Street,Fitzroy,East/North,345,West/South,532,877,27
+2017-Mar,Westgarth Street,Fitzroy Street,Nicholson Street,Fitzroy,East/North,483,West/South,433,916,34.6
+2017-Mar,Young Street,Alexandra Parade,Cecil Street,Fitzroy,East/North,311,West/South,2,313,30.2
+2016-Mar,Lucerne Crescent,Como Street,View Street,Alphington,East/North,189,West/South,234,423,39.6
+2016-Mar,Miller Street,Ida Street,King Street,Fitzroy North,East/North,1388,West/South,1333,2721,40
+2016-Mar,Miller Street,Ida Street,King Street,Fitzroy North,East/North,1451,West/South,1501,2952,39.6
+2016-Mar,Railway Place,Green Street,Royal Place,Richmond,East/North,132,West/South,11,143,24.8
+2016-Mar,Station Street,Mary Street,Park Street,Carlton North,East/North,443,West/South,493,936,44.3
+2015-Mar,Abinger Street,Coppin Street,Mary Street,Richmond,East/North,473,West/South,639,1112,34.6
+2015-Mar,Bennett Street,Park Street,Scotchmer Street,Fitzroy North,East/North,246,West/South,289,535,41.4
+2015-Mar,Campbell Street,Gipps Street,McCutcheon Way,Collingwood,East/North,5,West/South,464,469,38.2
+2015-Mar,Coppin Street,Madden Grove,Rose Street,Richmond,East/North,2502,West/South,937,3439,40
+2015-Mar,Cromwell Street,Langridge Street,Victoria Parade,Collingwood,East/North,1217,West/South,16,1233,36
+2015-Mar,Edinburgh Street,Boyd Street,Newry Street,Richmond,East/North,400,West/South,407,807,38.9
+2015-Mar,Edinburgh Street,Newry Street,Swan Street,Richmond,East/North,640,West/South,584,1224,37.1
+2015-Mar,Elizabeth Street,Lennox Street,Shelley Street,Richmond,East/North,5679,West/South,4913,10592,39.2
+2015-Mar,Freeman Street,Lennox Street,Bowen Street,Richmond,East/North,6,West/South,86,92,28.1
+2015-Mar,George Street,Chapel Street,Greeves Street,Fitzroy,East/North,975,West/South,1105,2080,36
+2015-Mar,Kelso Street,Cubitt Street,Stephenson Street,Richmond,East/North,222,West/South,274,496,30.2
+2015-Mar,Nicholson Street,Studley Street,Yarra Street,Abbotsford,East/North,6251,West/South,6748,12999,40.7
+2015-Mar,Otter Street,Smith Street,Wellington Street,Collingwood,East/North,1039,West/South,996,2035,38.5
+2015-Mar,Parkins Lane,Cremorne Street,Wellington Street,Richmond,East/North,22,West/South,143,165,23
+2015-Mar,Rose Street,Coppin Street,Rooney Street,Richmond,East/North,140,West/South,14,154,18.7
+2015-Mar,Wall Street,Coppin Street,Lord Street,Richmond,East/North,775,West/South,710,1485,39.2
+2014-Mar,Blanche Street,Cremorne Street,Wellington Street,Richmond,East/North,114,West/South,6,120,27
+2014-Mar,Cooke Street,Nelson Street,Victoria Street,Abbotsford,East/North,348,West/South,9,357,30.2
+2014-Mar,Coppin Street,Benson Street,Swan Street,Richmond,East/North,3798,West/South,3393,7191,42.8
+2014-Mar,Fraser Street,Bridge Road,Corsair Street,Richmond,East/North,336,West/South,428,764,37.8
+2014-Mar,Highett Street,Coppin Street,Gleadell Street,Richmond,East/North,5870,West/South,6229,12099,47.5
+2014-Mar,Hunter Street,Bridge Road,Corsair Street,Richmond,East/North,108,West/South,293,401,34.2
+2014-Mar,Lane number 87,Grant Street,John Street,Clifton Hill,East/North,9,West/South,5,14,15.8
+2014-Mar,Leslie Street,Buckingham Street,Victoria Street,Richmond,East/North,216,West/South,334,550,40.3
+2014-Mar,Lord Street,Boyd Street,Newry Street,Richmond,East/North,1107,West/South,480,1587,40.7
+2014-Mar,Loretto Street,Jessie Street,Wellington Street,Richmond,East/North,47,West/South,24,71,21.6
+2014-Mar,Neptune Street,Bridge Road,Corsair Street,Richmond,East/North,228,West/South,279,507,35.6
+2014-Mar,Newry Street,Canterbury Street,Edinburgh Street,Richmond,East/North,448,West/South,809,1257,36.7
+2014-Mar,Park Crescent,Panther Place,Station Street,Alphington,East/North,269,West/South,342,611,33.1
+2014-Mar,Roseneath Street,Hoddle Street,Rutland Street,Clifton Hill,East/North,2396,West/South,3316,5712,37.1
+2014-Mar,Rout Street,Punt Road,Wellington Street,Richmond,East/North,13,West/South,78,91,25.2
+2014-Mar,Yarralea Street,Gibson Street,Phillips Street,Alphington,East/North,226,West/South,476,702,37.1
+2013-Mar,Charles Street,Gipps Street,Vere Street,Abbotsford ,East/North,202,West/South,211,413,45.7
+2013-Mar,Moorhouse Street,Bridge Road,Erin Street,Richmond,East/North,495,West/South,446,941,35.3
+2013-Mar,Normanby Place,Bridge Road,Erin Street,Richmond,East/North,645,West/South,50,695,31.7
+2013-Mar,North Terrace,Gold Street,Hoddle Street,Clifton Hill,East/North,862,West/South,721,1583,43.6
+2013-Mar,Rathdowne Street,Pigdon Street,Richardson Street,Carlton North,East/North,5301,West/South,4409,9710,50.8
+2013-Mar,Trenerry Crescent,Gray Street,Maugie Street,Clifton Hill,East/North,4188,West/South,2635,6823,47.2
+2013-Mar,Trenerry Crescent,Gray Street,freeway overpass,Clifton Hill,East/North,4188,West/South,2657,6845,43.9
+2012-Mar,Abbotsford Street,Hunter Street,Nicholson Steet,Abbotsford ,East/North,1057,West/South,586,1643,39.6
+2012-Mar,Balmain Street,Gwynne Street,Rail Bridge,Richmond,East/North,2752,West/South,4024,6776,37.1
+2012-Mar,Brougham Street,Church Street,Lyndhurst Street,Richmond,East/North,802,West/South,446,1248,40.7
+2012-Mar,Byrne Street,Holden Street,St Georges Road,Fitzroy North,East/North,196,West/South,135,331,37.1
+2012-Mar,Chapel Street,Church Street,Walnut Street,Richmond,East/North,20,West/South,502,522,41
+2012-Mar,Chapel Street,George Street,Napier Street,Fitzroy ,East/North,567,West/South,105,672,33.5
+2012-Mar,Charlotte Street,Charles Street,Church Street,Richmond,East/North,386,West/South,377,763,43.2
+2012-Mar,Clarke Street,St Helliers Street,Johnston Street,Abbotsford ,East/North,1232,West/South,1389,2621,33.8
+2012-Mar,Elm Grove,Charles Street,Church Street,Richmond ,East/North,459,West/South,469,928,34.6
+2012-Mar,Fraser Street,Bridge Road,Corsair Street,Richmond ,East/North,349,West/South,436,785,40
+2012-Mar,Gore Street,Leicester Street,Rose Street,Fitzroy ,East/North,942,West/South,592,1534,44.3
+2012-Mar,Green Street,Adelaide Street,Chapel Street,Richmond ,East/North,501,West/South,10,511,33.8
+2012-Mar,Gwynne Street,Balmain Street,Munro Street,Richmond,East/North,302,West/South,293,595,34.6
+2012-Mar,Hotham Street,Gold Street,Hoddle Street,Collingwood ,East/North,272,West/South,409,681,46.1
+2012-Mar,Hunter Street,Bridge Road,Corsair Street,Richmond ,East/North,97,West/South,248,345,35.6
+2012-Mar,Lulie Street,Johnston Street,Turner Street,Abbotsford ,East/North,910,West/South,1029,1939,45.7
+2012-Mar,Marine Parade,Nicholson Street,Hunter Street,Abbotsford ,East/North,837,West/South,682,1519,38.2
+2012-Mar,Maugie Street,Lulie Street,Trenerry Crescent,Abbotsford ,East/North,480,West/South,538,1018,46.1
+2012-Mar,Neptune Street,Bridge Road,Corsair Street,Richmond ,East/North,200,West/South,239,439,37.4
+2012-Mar,Park Street,Bennett Street,Kneen Street,Fitzroy North,East/North,2720,West/South,2877,5597,42.5
+2012-Mar,Rich Street,Johnston Street,Turner Street,Abbotsford ,East/North,617,West/South,392,1009,33.8
+2012-Mar,Trenerry Crescent,Johnston Street,Turner Street,Abbotsford ,East/North,4414,West/South,2523,6937,34.9
+2012-Mar,Trenerry Crescent,Dight Falls,Overpass,Abbotsford ,East/North,4464,West/South,2769,7233,51.8
+2012-Mar,Valiant Street,Clarke Street,Paterson Street,Abbotsford ,East/North,18,West/South,288,306,31.3
+2011-Mar,Canterbury Street,Beissel Street,Newry Street,Richmond,East/North,3,West/South,108,111,24.1
+2011-Mar,Cremorne Street,Gough Street,Kelso Street,Richmond,East/North,2860,West/South,2463,5323,46.8
+2011-Mar,Leicester Street,ROW,Young Street,Fitzroy ,East/North,17,West/South,655,672,30.6
+2011-Mar,Leicester Street,Brunswick Street,Rowe Street,Fitzroy ,East/North,77,West/South,662,739,33.8
+2011-Mar,Newry Street,Edinburgh Street,Lord Street,Richmond,East/North,453,West/South,854,1307,42.8
+2011-Mar,Newry Street,Burnley Street,Edinburgh Street,Richmond,East/North,663,West/South,1175,1838,41.4
+2011-Mar,Nicholson Street,Langridge Street,Victoria Street,Abbotsford ,East/North,3321,West/South,3423,6744,42.1
+2011-Mar,Stawell Street,Glasshouse Street,Stillman Street,Richmond,East/North,843,West/South,717,1560,40
+2011-Mar,Stawell Street,Khartoum Street,Wertheim Street,Richmond,East/North,904,West/South,736,1640,36.4
+2010-Mar,Buckingham Street,Gardner Street,Johnson Street,Richmond,East/North,1358,West/South,1614,2972,40.3
+2010-Mar,Byrne Street,Holden Street,Railway Place,Fitzroy North,East/North,150,West/South,164,314,37.8
+2010-Mar,Egan Place,Egan Street,Highett Street,Richmond,East/North,1181,West/South,1,1182,36.7
+2010-Mar,Hoddle Street (Service Road),Noone Street,South Terrace,Clifton Hill,East/North,646,West/South,45,691,50.8
+2010-Mar,Johnson Street,Baker Street,Lincoln Street,Richmond,East/North,355,West/South,819,1174,43.6
+2010-Mar,Mary Street,Barkly Avenue,Burgess Street,Richmond,East/North,1080,West/South,1188,2268,26.3
+2010-Mar,Mary Street,Barkly Avenue,Burgess Street,Richmond,East/North,1512,West/South,1541,3053,26.3
+2010-Mar,Pilkington Street,Barkly Street,Holden Street,Fitzroy North,East/North,470,West/South,301,771,43.2
+2010-Mar,Vere Street,Dight Street,Wellington Street,Collingwood,East/North,528,West/South,885,1413,33.5
+2010-Mar,Young Street,Gertrude Street,Graham Street,Fitzroy,East/North,682,West/South,61,743,38.2
+2019-Apr,Vere Street,Dight Street,Campbell Street,Collingwood,East/North,788,West/South,680,1468,39.5
+2018-Apr,Hoddle Street (Service Road),Hotham Street,Keele Street,Collingwood,East/North,1792,West/South,27,1819,31.7
+2018-Apr,Hodgkinson Street,Smith Street,Wellington Street,Clifton Hill,East/North,391,West/South,508,899,37.4
+2018-Apr,Keele Street,Gold Street,Hoddle Street,Collingwood,East/North,698,West/South,193,891,37.8
+2018-Apr,Little Abbot Street,Gold Street,Hoddle Street,Collingwood,East/North,21,West/South,17,38,27.4
+2018-Apr,Murphy Street,Davidson Street,Gardner Street,Richmond,East/North,213,West/South,349,562,43.2
+2018-Apr,Sackville Street,Gold Street,Hoddle Street,Collingwood,East/North,1094,West/South,296,1390,39.6
+2017-Apr,Baker Street,Johnson Street,Lambert Street,Richmond,East/North,2339,West/South,1589,3928,37.8
+2017-Apr,Cecil Street,Fitzroy Street,Nicholson Street,Fitzroy,East/North,3,West/South,261,264,33.5
+2017-Apr,Cecil Street,Brunswick Street,Fitzroy Street,Fitzroy,East/North,3,West/South,273,276,27.7
+2017-Apr,Darlington Parade,Church Street,Waltham Street,Richmond,East/North,459,West/South,482,941,38.5
+2017-Apr,Davis Street,Brighton Street,Mary Street,Richmond,East/North,4,West/South,140,144,34.2
+2017-Apr,Dickmann Street,Gipps Street,Swan Street,Richmond,East/North,163,West/South,180,343,33.5
+2017-Apr,Lyndhurst Street,Abinger Street,Brougham Street,Richmond,East/North,290,West/South,158,448,33.8
+2017-Apr,Park Grove,Brooks Street,Swan Street,Richmond,East/North,172,West/South,175,347,34.9
+2017-Apr,Peel Street,Cambridge Street,Oxford Street,Collingwood,East/North,1125,West/South,1036,2161,36.7
+2017-Apr,Richardson Street,Lygon Street,Wilson Street,Carlton North,East/North,436,West/South,665,1101,43.6
+2017-Apr,Rose Street,Brighton Street,Mary Street,Richmond,East/North,971,West/South,1,972,34.9
+2017-Apr,Trenerry Crescent,Gray Street,Maugie Street,Clifton Hill,East/North,4058,West/South,2745,6803,45.4
+2017-Apr,Wellington Street,Gipps Street,Vere Street,Collingwood,East/North,6819,West/South,7578,14397,42.1
+2016-Apr,Jessie Street,Cremorne Street,Jessie Street,Richmond,East/North,12,West/South,191,203,24.8
+2016-Apr,Little Turner Street,Lulie Street,Rich Street,Abbotsford,East/North,42,West/South,60,102,27.4
+2016-Apr,Little Turner Street,Rich Street,Trenerry Crescent,Abbotsford,East/North,91,West/South,114,205,30.2
+2016-Apr,Rathdowne Street,Pigdon Street,Richardson Street,Carlton North,East/North,4940,West/South,3888,8828,46.1
+2016-Apr,Rout Street,Huckerby Street,Wellington Street,Richmond,East/North,43,West/South,135,178,20.2
+2016-Apr,Rowena Parade,Portland Street,The Vaucluse,Richmond,East/North,259,West/South,362,621,34.2
+2015-Apr,Grant Street,Ramsden Street,Spensley Street,Clifton Hill,East/North,340,West/South,571,911,48.2
+2015-Apr,Lennox Street,Bridge Road,Erin Street,Richmond,East/North,3079,West/South,3217,6296,36.7
+2015-Apr,Muir Street,Erin Street,Freeman Street,Richmond,East/North,1150,West/South,10,1160,27
+2015-Apr,Paterson Street,McIlwraith Street,Wilson Street,Carlton North,East/North,568,West/South,355,923,46.8
+2015-Apr,Rathdowne Street,Pigdon Street,Richardson Street,Carlton North,East/North,4974,West/South,3776,8750,47.9
+2015-Apr,Wangaratta Street,Stewart Street,Tanner Street,Richmond,East/North,548,West/South,334,882,34.9
+2014-Apr,Campbell Street,Perry Street,Vere Street,Collingwood,East/North,198,West/South,211,409,25.6
+2014-Apr,Dight Street,Singleton Street,Vere Street,Collingwood,East/North,13,West/South,187,200,34.2
+2014-Apr,Dight Street,Perry Street,Vere Street,Collingwood,East/North,226,West/South,215,441,23.8
+2014-Apr,Fitzroy Street,Princes Street,Victoria Parade,Fitzroy,East/North,2279,West/South,44,2323,24.8
+2014-Apr,Palmer Street,Perry Street,Vere Street,Collingwood,East/North,104,West/South,110,214,21.6
+2014-Apr,Rae Street,Barkly Street,Holden Street,Fitzroy North,East/North,597,West/South,1489,2086,37.8
+2014-Apr,Wall Street,Coppin Street,Mary Street,Richmond,East/North,358,West/South,855,1213,37.4
+2013-Apr,Alfred Street,Derby Street,Rooneys Lane,Richmond,East/North,22,West/South,231,253,32.8
+2013-Apr,Bik Lane,Nicholson Street,end,Fitzroy North,East/North,278,West/South,293,571,23.8
+2013-Apr,Clifton Street,Gipps Street,Swan Street,Richmond,East/North,445,West/South,474,919,44.3
+2013-Apr,Dickmann Street,Gipps Street,Swan Street,Richmond,East/North,182,West/South,155,337,32.4
+2013-Apr,Docker Street,Gipps Street,Swan Street,Richmond,East/North,710,West/South,623,1333,42.5
+2013-Apr,Gipps Street,Carroll Street,Lennox Street,Richmond,East/North,1005,West/South,1651,2656,38.9
+2013-Apr,Goodwood Street,Rotherwood Street,Union Street,Richmond,East/North,240,West/South,216,456,32
+2013-Apr,Lennox Street,Gipps Street,Swan Street,Richmond,East/North,2020,West/South,3792,5812,42.1
+2013-Apr,Lennox Street,Bridge Road,Goodwood Street,Richmond,East/North,2964,West/South,3508,6472,36.7
+2013-Apr,Lennox Street,Richmond Terrace,Rowena Parade,Richmond,East/North,3258,West/South,3798,7056,34.6
+2013-Apr,Lennox Street,Richmond Terrace,Rowena Parade,Richmond,East/North,3389,West/South,4094,7483,34.6
+2013-Apr,Loretto Street,Jessie Street,Wellington Street,Richmond,East/North,39,West/South,30,69,21.6
+2013-Apr,Margaret Street,Stewart Street,Tanner Street,Richmond,East/North,178,West/South,130,308,27.4
+2013-Apr,Miller Street,Fear Street,Loughnan Street,Richmond,East/North,377,West/South,7,384,29.9
+2013-Apr,North Street,Clark Street,River Street,Richmond,East/North,628,West/South,954,1582,42.8
+2013-Apr,Oxford Street,Peel Street,Stanley Street,Collingwood,East/North,553,West/South,848,1401,43.2
+2013-Apr,Peel Street,Cambridge Street,Oxford Street,Collingwood,East/North,1075,West/South,1103,2178,41.8
+2013-Apr,Richmond Terrace,Alfred Street,Miller Street,Richmond,East/North,144,West/South,458,602,32.4
+2013-Apr,Rotherwood Street,Goodwood Street,The Crofts,Richmond,East/North,356,West/South,560,916,34.6
+2013-Apr,Rowena Parade,Grattan Place,Miller Street,Richmond,East/North,874,West/South,1030,1904,37.1
+2013-Apr,The Crofts,Punt Road,Rotherwood Street,Richmond,East/North,10,West/South,115,125,32
+2013-Apr,Wangaratta Street,Montgomery Street,Tanner Street,Richmond,East/North,51,West/South,101,152,24.1
+2013-Apr,Wangaratta Street,Stewart Street,Tanner Street,Richmond,East/North,535,West/South,352,887,35.6
+2012-Apr,Abinger Street,Hosie Street,Spencer Place,Richmond,East/North,502,West/South,363,865,37.4
+2012-Apr,Coppin Street,Abinger Street,Wall Street,Richmond,East/North,3589,West/South,4471,8060,47.5
+2012-Apr,Drummond Street,Newry Street,Lee Street,Carlton North,East/North,339,West/South,844,1183,49
+2012-Apr,Gardner Street,Murphy Street,Palmer Street,Richmond ,East/North,815,West/South,954,1769,45.4
+2012-Apr,Glass Street,Boyd Street,Newry Street,Richmond ,East/North,69,West/South,14,83,23.4
+2012-Apr,Lord Street,Boyd Street,Newry Street,Richmond ,East/North,1040,West/South,462,1502,41
+2012-Apr,Mary Street,Benson Street,McNamara Street,Richmond ,East/North,25,West/South,487,512,33.5
+2012-Apr,Mary Street,James Street,Madden Grove,Richmond ,East/North,2657,West/South,2192,4849,42.8
+2012-Apr,Pigdon Street,Amess Street,Rathdowne Street,Carlton North,East/North,3320,West/South,3041,6361,43.9
+2012-Apr,Rathdowne Street,Richardson Street,Pigdon Street,Carlton North,East/North,5648,West/South,4919,10567,50.4
+2011-Apr,Abbotsford Street,Clarke Street,Paterson Street,Abbotsford ,East/North,653,West/South,305,958,39.2
+2011-Apr,Butler Street,Shelley Street,Lennox Street,Richmond,East/North,815,West/South,6,821,35.3
+2011-Apr,Clarke Street,Abbotsford Street,Yarra Street,Abbotsford ,East/North,265,West/South,197,462,32.4
+2011-Apr,Clarke Street,Johnston Street,St Heliers Street,Abbotsford ,East/North,1476,West/South,1279,2755,33.1
+2011-Apr,Fitzroy Street,Bell Street,Greeves Street,Fitzroy  ,East/North,153,West/South,42,195,29.2
+2011-Apr,Gold Street,Easey Street,Sackville Street,Collingwood ,East/North,973,West/South,1105,2078,43.2
+2011-Apr,Highett Street,Freeman Street,Lennox Street,Richmond,East/North,2245,West/South,3324,5569,42.5
+2011-Apr,Marine Parade,Hunter Street,Paterson Street,Abbotsford ,East/North,335,West/South,230,565,43.9
+2011-Apr,Napoleon Street,Otter Street,Wellington Street,Collingwood ,East/North,10,West/South,192,202,38.9
+2011-Apr,Pigdon Street,Amess Street,Rathdowne Street,Carlton North,East/North,3320,West/South,2996,6316,44.3
+2011-Apr,Pigdon Street,Drummond Street,Rathdowne Street,Carlton North,East/North,3473,West/South,3974,7447,41.4
+2011-Apr,Yarra Street,Clarke Street,Paterson Street,Abbotsford ,East/North,171,West/South,74,245,28.4
+2010-Apr,Queens Parade,Jamieson Street,Napier Street,Fitzroy North,East/North,8320,West/South,739,9059,64.1
+2010-Apr,Rose Street,Coppin Street,Rooney Street,Richmond,East/North,144,West/South,24,168,30.6
+2010-Apr,Rose Street,Coppin Street,Rooney Street,Richmond,East/North,155,West/South,23,178,30.6
+2019-May,Gardner Street,Murphy Street,Palmer Street,Richmond ,East/North,832,West/South,962,1794,43.4
+2019-May,Hope Street,Holden Street,Rae Street,Fitzroy North,East/North,36,West/South,73,109,21.4
+2019-May,Lennox Street,Gipps Street,Swan Street,Richmond,East/North,1665,West/South,3691,5356,39.8
+2018-May,Garfield Street,Lennox Street,Shelley Street,Richmond,East/North,349,West/South,171,520,38.9
+2017-May,Appleton Street,Burnley Street,David Street,Richmond,East/North,107,West/South,164,271,35.5
+2017-May,Best Street,Alfred Crescent,St Georges Road,Fitzroy North,East/North,360,West/South,22,382,29.3
+2017-May,Coate Avenue,Heidelberg Road,Rex Avenue,Alphington,East/North,364,West/South,329,693,43.3
+2017-May,Drummond Street,Curtain Street,Fenwick Street,Carlton North,East/North,373,West/South,922,1295,45.4
+2017-May,Drummond Street,Lee Street,Newry Street,Carlton North,East/North,329,West/South,1130,1459,46.8
+2017-May,Freeman Street,Brunswick Street,Napier Street,Fitzroy North,East/North,520,West/South,380,900,37.4
+2017-May,Freeman Street,Brunswick Street,Napier Street,Fitzroy North,East/North,567,West/South,454,1021,36
+2017-May,George Street,Chapel Street,Greeves Street,Fitzroy,East/North,916,West/South,1593,2509,33.8
+2017-May,Greeves Street,George Street,Napier Street,Fitzroy,East/North,402,West/South,7,409,33.8
+2017-May,Kerr Street,George Street,Napier Street,Fitzroy,East/North,1559,West/South,1306,2865,36.4
+2017-May,Mollison Street,Lithgow Street,Nicholson Street,Abbotsford,East/North,1518,West/South,2312,3830,37.8
+2017-May,Murphy Street,Burnley Street,Vaughan Street,Richmond,East/North,1522,West/South,1947,3469,45.7
+2017-May,Napier Street,Leicester Street,Westgarth Street,Fitzroy,East/North,1048,West/South,594,1642,39.4
+2017-May,Paterson Street,Johnston Street,Valiant Street,Abbotsford,East/North,266,West/South,7,273,27.2
+2017-May,Rex Avenue,Chandler Highway,Coate Avenue,Alphington,East/North,1138,West/South,1557,2695,36.6
+2017-May,Roseneath Street,Clifton Avenue,Groom Street,Clifton Hill,East/North,2617,West/South,1631,4248,41
+2017-May,Stanley Street,Smith Street,Wellington Street,Collingwood,East/North,1816,West/South,1414,3230,33.3
+2017-May,Yarraford Avenue,Divided Road Section,Heidelberg Road,Alphington,East/North,169,West/South,167,336,43.1
+2016-May,Napier Street,Kerr Street,Rose Street,Fitzroy,East/North,147,West/South,178,325,32
+2016-May,Woodhead Street,Falconer Street,Scotchmer Street,Fitzroy North,East/North,4,West/South,113,117,34.2
+2015-May,Brunswick Street North,Scotchmer Street,Tranmere Street,Fitzroy North,East/North,703,West/South,1251,1954,40.3
+2015-May,Brunswick Street North,Park Street,Scotchmer Street,Fitzroy North,East/North,1165,West/South,1213,2378,40.7
+2015-May,Lane number 126.1,Charlotte Street,Wellington Street,Collingwood,East/North,31,West/South,35,66,18
+2015-May,MacPherson Street,Drummond Street,Rathdowne Street,Carlton North,East/North,593,West/South,485,1078,40.7
+2015-May,MacPherson Street,Arnold Street,Garton Street,Carlton North,East/North,1065,West/South,566,1631,43.9
+2015-May,Pigdon Street,Arnold Street,Garton Street,Carlton North,East/North,2950,West/South,2650,5600,39.6
+2015-May,Princes Park Drive,College Crescent,Garton Street,Carlton North,East/North,985,West/South,0,985,39.6
+2014-May,Brookes Crescent,Tempany Street,Nicholson Street,Fitzroy North,East/North,10,West/South,136,146,20.9
+2014-May,Freeman Street,Nicholson Street,St Georges Road,Fitzroy North,East/North,670,West/South,275,945,44.6
+2014-May,George Street,Moor Street,St David Street,Fitzroy,East/North,940,West/South,822,1762,40
+2014-May,Paterson Street,Johnston Street,Valiant Street,Abbotsford,East/North,267,West/South,6,273,27
+2014-May,Rae Street,Barkly Street,Clauscen Street,Fitzroy North,East/North,1286,West/South,1544,2830,39.2
+2014-May,Watkins Street,Rae Street,Tempany Street,Fitzroy North,East/North,8,West/South,110,118,30.6
+2014-May,Young Street,Chapel Street,Johnston Street,Fitzroy,East/North,484,West/South,4,488,33.1
+2013-May,Canning Street,Richardson Street,MacPherson Street,Carlton North,East/North,610,West/South,426,1036,46.1
+2013-May,Canning Street,Pigdon Street,Richardson Street,Carlton North,East/North,542,West/South,611,1153,49.3
+2013-May,Coate Avenue,Heidelberg Road,Rex Avenue,Alphington,East/North,308,West/South,272,580,44.3
+2013-May,Como Street,St Bernards Road,Chamouni Street,Alphington,East/North,440,West/South,510,950,41.4
+2013-May,Constance Street,Como Street,Lucerne Crescent,Alphington,East/North,121,West/South,276,397,40.7
+2013-May,Cromwell Street,Gipps Street,McCutcheon Way,Collingwood,East/North,589,West/South,22,611,38.5
+2013-May,George Street,Moor Street,St David Street,Fitzroy,East/North,993,West/South,852,1845,40.3
+2013-May,Harvey Street,Little Lesney Street,Swan Street,Richmond,East/North,212,West/South,341,553,31.7
+2013-May,Lucerne Crescent,Geneva Road,St Gothards Road,Alphington,East/North,77,West/South,92,169,42.5
+2013-May,Lucerne Crescent,Chamouni Street,Constance Street,Alphington,East/North,319,West/South,473,792,37.1
+2013-May,New Street,Peers Street,York Street,Richmond,East/North,522,West/South,136,658,29.5
+2013-May,Regent Street,Garfield Street,York Street,Richmond,East/North,765,West/South,11,776,41.4
+2013-May,Scotchmer Street,Mark Street,Woodhead Street,Fitzroy North,East/North,3140,West/South,3315,6455,48.6
+2013-May,Scotchmer Street,Best Street,Birkenhead Street,Fitzroy North,East/North,4071,West/South,4155,8226,42.5
+2013-May,St Bernards Road,Como Street,Lucerne Crescent,Alphington,East/North,114,West/South,210,324,37.8
+2013-May,Tanner Street,Tyson Street,Woodlawn Street,Richmond,East/North,326,West/South,367,693,35.3
+2013-May,View Street,Riverview Grove,Lane number 2307,Alphington,East/North,464,West/South,265,729,43.6
+2013-May,White Street,Glenlyon Road,Pleasance Street,Fitzroy North,East/North,776,West/South,639,1415,40.3
+2013-May,Yarralea Street,Gibson Street,Killop Street,Alphington,East/North,608,West/South,671,1279,36
+2013-May,York Street,New Street,Regent Street,Richmond,East/North,702,West/South,581,1283,34.9
+2012-May,Abinger Street,Church Street,Lyndhurst Street,Richmond,East/North,622,West/South,333,955,31.3
+2012-May,Bell Street,Benson Street,Swan Street,Richmond,East/North,2,West/South,112,114,32.4
+2012-May,Charles Street,Charlotte Street,Swan Street,Richmond,East/North,709,West/South,821,1530,38.2
+2012-May,Coppin Street,Benson Street,Swan Street,Richmond,East/North,3860,West/South,3429,7289,47.6
+2012-May,Duke Street,Swan Street,Wall Street,Richmond ,East/North,5,West/South,291,296,36
+2012-May,George Street,David Street,Moor Street,Fitzroy ,East/North,1003,West/South,830,1833,40.3
+2012-May,Glass Street,Beissel Street,Newry Street,Richmond ,East/North,70,West/South,64,134,31.3
+2012-May,Lyndhurst Street,Abinger Street,Brougham Street,Richmond ,East/North,331,West/South,152,483,37.4
+2012-May,Malleson Street,Mary Street,Lyndhurst Street,Richmond ,East/North,378,West/South,428,806,45.7
+2012-May,Mary Street,Abinger Street,Brougham Street,Richmond ,East/North,451,West/South,19,470,33.8
+2012-May,Moor Street,Nicholson Street,Fitzroy Street,Fitzroy,East/North,26,West/South,484,510,35.3
+2012-May,Newry Street,Canning Street,Rathdowne Street,Carlton North,East/North,334,West/South,320,654,45
+2012-May,Park Grove,Survey Street,Swan Street,Richmond ,East/North,233,West/South,160,393,37.4
+2012-May,Park Street,Amess Street,Canning Street,Carlton North,East/North,1590,West/South,2246,3836,40.7
+2012-May,Park Street,Bennett Street,Kneen Street,Fitzroy North,East/North,2748,West/South,2762,5510,47.2
+2012-May,Park Street,Bennett Street,Kneen Street,Fitzroy North,East/North,2790,West/South,2873,5663,40
+2012-May,Royal Lane,Gertrude Street,Palmer Street,Fitzroy ,East/North,109,West/South,330,439,31.3
+2012-May,Wall Street,Coppin Street,Mary Street,Richmond ,East/North,343,West/South,935,1278,42.1
+2012-May,Wellington Street,Langridge Street,Peel Street,Collingwood ,East/North,5468,West/South,6588,12056,46.8
+2012-May,Wellington Street,Stanley Street,Vere Street,Collingwood ,East/North,7152,West/South,7714,14866,47.5
+2011-May,Brougham Street,Church Street,Lyndhurst Street,Richmond,East/North,740,West/South,411,1151,40.3
+2011-May,Cambridge Street,Peel Street,Stanley Street,Collingwood,East/North,690,West/South,597,1287,45
+2011-May,Cameron Street,Lennox Street,Thomas Street,Richmond,East/North,577,West/South,697,1274,34.9
+2011-May,Clifton Avenue,Ramsden Street,Roseneath Street,Clifton Hill,East/North,11,West/South,453,464,41
+2011-May,Clifton Avenue,Ramsden Street,Roseneath Street,Clifton Hill,East/North,6,West/South,562,568,42.1
+2011-May,Cromwell Street,Gipps Street,Langridge Street,Collingwood,East/North,951,West/South,19,970,42.5
+2011-May,Davis Street,Canning Street,Rathdowne Street,Carlton North,East/North,559,West/South,156,715,46.4
+2011-May,Davis Street,Canning Street,Rathdowne Street,Carlton North,East/North,840,West/South,225,1065,48.6
+2011-May,Erin Street,Normanby Place,,Richmond,East/North,2000,West/South,1917,3917,33.8
+2011-May,Glasgow Street,Wellington Street,Rokeby Street,Collingwood ,East/North,99,West/South,6,105,35.6
+2011-May,Glasshouse Road,Wellington Street,Rokeby Street,Collingwood ,East/North,84,West/South,8,92,22.3
+2011-May,Grant Street,Queens Parade,McKean Street,Fitzroy North,East/North,369,West/South,402,771,67.7
+2011-May,Hilton Street,Alexandra Parade,Council Street,Clifton Hill,East/North,79,West/South,154,233,37.8
+2011-May,Islington Street,Langridge Street,Gipps Street,Collingwood ,East/North,520,West/South,12,532,39.2
+2011-May,Johnson Street,Baker Street,Victoria Street,Richmond,East/North,2526,West/South,1997,4523,30.2
+2011-May,Liverpool Street,Nicholson Street,Rae Street,Fitzroy North,East/North,256,West/South,162,418,36
+2011-May,Lord Street,Newry Street,Swan Street,Richmond,East/North,702,West/South,420,1122,45
+2011-May,Mason Street,Cambridge Street,Smith Street,Collingwood ,East/North,311,West/South,8,319,32
+2011-May,Myrtle Street,Ramsden Street,Roseneath Street,Clifton Hill,East/North,4,West/South,1336,1340,43.6
+2011-May,Myrtle Street,Ramsden Street,Roseneath Street,Clifton Hill,East/North,4,West/South,1408,1412,43.9
+2011-May,Northumberland Street,Rokeby Street,Wellington Street,Collingwood,East/North,280,West/South,295,575,64.1
+2011-May,Rae Street,Liverpool Street,Park Street,Fitzroy North,East/North,628,West/South,432,1060,38.5
+2011-May,Yambla Street,Ramsden Street,Wright Street,Clifton Hill,East/North,1130,West/South,15,1145,50.4
+2010-May,Alexander Street,Alexandra Parade,Noone Street,Clifton Hill,East/North,118,West/South,102,220,36.7
+2010-May,Alexandra Parade (Service Road),Alexander Street,Hoddle Street,Clifton Hill,East/North,2286,West/South,0,2286,56.5
+2010-May,Corsair Street,Fraser Street,Hunter Street,Richmond,East/North,596,West/South,9,605,31.3
+2010-May,Cremorne Street,Blanche Street,Jessie Street,Richmond,East/North,2690,West/South,3404,6094,48.6
+2010-May,Cremorne Street,Stephenson Street,Swan Street,Richmond,East/North,4174,West/South,3719,7893,38.2
+2010-May,Emma Street,Alexandra Parade,Mater Street,Collingwood,East/North,153,West/South,154,307,37.1
+2010-May,Field Street,Louise Street,William Street,Clifton Hill,East/North,249,West/South,912,1161,47.2
+2010-May,Mahoney Street,Bell Street,Greeves Street,Fitzroy,East/North,63,West/South,18,81,30.2
+2010-May,Mary Street,Davis Street,Goodwin Street,Richmond,East/North,1346,West/South,1740,3086,45.7
+2010-May,Miller Street,Ida Street,St Georges Road,Fitzroy North,East/North,1579,West/South,0,1579,31
+2010-May,Miller Street,Ida Street,St Georges Road,Fitzroy North,East/North,0,West/South,1541,1541,34.6
+2010-May,North Street,Burnley Street,Vaughan Street,Richmond,East/North,852,West/South,1143,1995,36.4
+2010-May,Scotchmer Street,Mark Street,Woodhead Street,Fitzroy North,East/North,3315,West/South,3289,6604,47.2
+2010-May,Scotchmer Street,Best Street,Birkenhead Street,Fitzroy North,East/North,4348,West/South,4376,8724,43.6
+2010-May,Seacombe Street,Reid Street,Scotchmer Street,Fitzroy North,East/North,86,West/South,5,91,29.9
+2010-May,St Georges Road,Church Street,Freeman Street,Fitzroy North,East/North,353,West/South,300,653,46.8
+2019-Jun,McKean Street,Delbridge Street,Grant Street,Fitzroy North,East/North,313,West/South,579,892,45.7
+2018-Jun,Bedford Street,Perry Street,Johnston Street,Collingwood,East/North,353,West/South,0,353,29.2
+2018-Jun,Bell Street,Nicholson Street,Cremorne Street,Fitzroy,East/North,190,West/South,87,277,36.2
+2018-Jun,Cambridge Street,Victoria Parade,Derby Street,Collingwood,East/North,893,West/South,428,1321,38.9
+2018-Jun,Cambridge Street,Peel Street,Stanley Street,Collingwood,East/North,737,West/South,586,1323,40.1
+2018-Jun,Coppin Street,Madden Grove,Swan Street,Richmond,East/North,2755,West/South,2961,5716,36.3
+2018-Jun,Davis Street,Canning Street,Rathdowne Street,Carlton North,East/North,444,West/South,208,652,45.5
+2018-Jun,Fitzroy Street,James Street,Brunswick Place,Fitzroy,East/North,416,West/South,14,430,34.2
+2018-Jun,Fitzroy Street,Victoria Parade,Gertrude Street,Fitzroy,East/North,1871,West/South,5,1876,29.8
+2018-Jun,Little Oxford Street,Peel Street,Stanley Street,Collingwood,East/North,524,West/South,0,524,35.2
+2018-Jun,Madden Grove,Coppin Street,Lane number 1172,Richmond,East/North,2583,West/South,9,2592,34.1
+2018-Jun,Mason Street,Oxford Street,Cambridge Street,Collingwood,East/North,313,West/South,0,313,28.1
+2018-Jun,Nelson Street,Church Street,Fairchild Street,Abbotsford,East/North,1987,West/South,2348,4335,46.5
+2018-Jun,Otter Street,Bedford Street,Wellington Street,Collingwood,East/North,826,West/South,825,1651,36.6
+2018-Jun,Oxford Street,Langridge Street,Peel Street,Collingwood,East/North,534,West/South,849,1383,40.1
+2018-Jun,Oxford Street,Peel Street,Stanley Street,Collingwood,East/North,603,West/South,835,1438,40.1
+2018-Jun,Park Street,Johnston Street,Stafford Street,Abbotsford,East/North,607,West/South,412,1019,33.4
+2018-Jun,Perry Street,Bedford Street,Wellington Street,Collingwood,East/North,438,West/South,0,438,38.9
+2018-Jun,St David Street,Napier Street,George Street,Fitzroy,East/North,0,West/South,228,228,33
+2018-Jun,Stanley Street,Oxford Street,Cambridge Street,Collingwood,East/North,1299,West/South,1714,3013,34.6
+2018-Jun,Studley Street,Hoddle Street,Park Street,Abbotsford,East/North,12,West/South,585,597,35.9
+2018-Jun,Vere Street,Hoddle Street,Park Street,Abbotsford,East/North,21,West/South,1047,1068,31.9
+2017-Jun,Khartoum Street,Bendigo Street,Stawell Street,Richmond,East/North,121,West/South,267,388,42.1
+2017-Jun,Lane number 698,Highett Street,Murphy Street,Richmond,East/North,1,West/South,5,6,22.3
+2017-Jun,Wellington Street,Swan Street,Blanche Street,Richmond,East/North,305,West/South,201,506,38.2
+2016-Jun,White Street,Glenlyon Road,Pleasance Street,Fitzroy North,East/North,770,West/South,555,1325,43.9
+2015-Jun,Liverpool Street,Nicholson Street,Rae Street,Fitzroy North,East/North,430,West/South,268,698,37.1
+2015-Jun,Vere Street,Nicholson Street,Park Street,Abbotsford,East/North,8,West/South,645,653,26.3
+2014-Jun,Lambert Street,Baker Street,Victoria Street,Richmond,East/North,432,West/South,7,439,34.2
+2014-Jun,McCutcheon Way,Campbell Street,Cromwell Street,Collingwood,East/North,277,West/South,865,1142,34.6
+2014-Jun,Park Street,Best Street,Birkenhead Street,Fitzroy North,East/North,274,West/South,6,280,28.4
+2014-Jun,Station Street,Pigdon Street,Richardson Street,Carlton North,East/North,372,West/South,458,830,47.2
+2013-Jun,Alma Street,Regent Street,Fitzroy Street,Fitzroy,East/North,315,West/South,247,562,31
+2013-Jun,Appleton Street,Burnley Street,David Street,Richmond,East/North,208,West/South,252,460,37.1
+2013-Jun,Appleton Street,Clark Street,David Street,Richmond,East/North,378,West/South,356,734,29.9
+2013-Jun,Bowen Crescent,Lang Street,Park Street,Carlton North,East/North,3984,West/South,3869,7853,45.7
+2013-Jun,Clark Street,Appleton Street,North Street,Richmond,East/North,379,West/South,352,731,34.2
+2013-Jun,Doonside Street,Burnley Street,David Street,Richmond,East/North,698,West/South,694,1392,42.5
+2013-Jun,Elaine Court,Christine Crescent,River Boulevard,Richmond,East/North,484,West/South,485,969,38.5
+2013-Jun,Fenwick Street,O'Grady Street,Spensley Street,Clifton Hill,East/North,2686,West/South,1018,3704,39.6
+2013-Jun,Mollison Street,Lithgow Street,Nicholson Street,Abbotsford,East/North,1451,West/South,2330,3781,38.9
+2013-Jun,North Street,Clark Street,River Street,Richmond,East/North,611,West/South,928,1539,43.2
+2013-Jun,North Street,Burnley Street,Vaughan Street,Richmond,East/North,849,West/South,1080,1929,34.6
+2013-Jun,Park Street,Greenwood Street,Victoria Street,Abbotsford,East/North,25,West/South,562,587,40.3
+2013-Jun,Rex Avenue,Chandler Highway,Coate Avenue,Alphington,East/North,150,West/South,156,306,34.9
+2013-Jun,Yarraford Avenue,Heidelberg Road,Divided Road,Alphington,East/North,185,West/South,177,362,43.2
+2012-Jun,Amsterdam Street,Brighton Street,Church Street,Richmond,East/North,670,West/South,601,1271,41.8
+2012-Jun,Brighton Street,Prince Patrick Street,Yarra Street,Richmond,East/North,999,West/South,720,1719,41.8
+2012-Jun,Chestnut Street,Adelaide Street,Chapel Street,Richmond,East/North,4,West/South,643,647,31
+2012-Jun,Cotter Street,Brighton Street,Church Street,Richmond,East/North,768,West/South,1147,1915,35.3
+2012-Jun,Cremorne Street,Balmain Street,Bent Street,Richmond,East/North,509,West/South,1546,2055,79.5
+2012-Jun,Cubitt Street,Kelso Street,Stephenson Street,Richmond,East/North,742,West/South,12,754,40
+2012-Jun,Dover Street,Kelso Street,Fitzgibbon Street,Richmond ,East/North,5,West/South,604,609,40
+2012-Jun,Easey Street,Gold Street,Hoddle Street,Collingwood ,East/North,388,West/South,275,663,41
+2012-Jun,Gold Street,Hotham Street,Mater Street,Collingwood ,East/North,407,West/South,389,796,44.3
+2012-Jun,Gordon Street,Church Street,Walnut Street,Richmond,East/North,273,West/South,309,582,33.5
+2012-Jun,Greeves Street,Gore Street,Hargraves Street,Fitzroy ,East/North,481,West/South,36,517,34.6
+2012-Jun,Gwynne Street,Kelso Street,Stephenson Street,Richmond,East/North,10,West/South,596,606,40.3
+2012-Jun,Hotham Street,Charlotte Street,Wellington Street,Collingwood ,East/North,494,West/South,433,927,38.9
+2012-Jun,Jessie Street,Cremorne Street,Loretto Street,Richmond,East/North,199,West/South,17,216,27.4
+2012-Jun,Keele Street,Hoddle Street,Gold Street,Collingwood ,East/North,618,West/South,227,845,38.2
+2012-Jun,North Terrace,Speed hump 11,Seed hump 12,Clifton Hill,East/North,804,West/South,671,1475,40.7
+2012-Jun,Stephenson Street,Dunn Street,Kelso Street,Richmond,East/North,690,West/South,19,709,38.9
+2012-Jun,Stephenson Street,Kelso Street,Dunn Street,Richmond ,East/North,690,West/South,18,708,38.9
+2012-Jun,Wellington Street,Blanche Street,Loretto Street,Richmond,East/North,165,West/South,215,380,39.2
+2011-Jun,Bedford Street,Perry Street,,Collingwood,East/North,282,West/South,17,299,33.1
+2011-Jun,Delbridge Street,McKean Street,Rowe Street,Fitzroy North,East/North,1331,West/South,1201,2532,42.5
+2011-Jun,Down Street,Singleton Street,Vere Street,Collingwood,East/North,245,West/South,178,423,36.4
+2011-Jun,Emerald Street,Perry Street,,Collingwood,East/North,89,West/South,97,186,22
+2011-Jun,Francis Street,Johnston Street,Perry Street,Collingwood ,East/North,80,West/South,92,172,35.6
+2011-Jun,Harmsworth Street,Johnston Street,Perry Street,Collingwood ,East/North,261,West/South,251,512,32
+2011-Jun,Howard Street,Church Street,Brighton Street,Richmond,East/North,693,West/South,756,1449,38.2
+2011-Jun,John Street,Singleton Street,Vere Street,Collingwood ,East/North,7,West/South,81,88,29.5
+2011-Jun,Little Wellington Street,Napoleon Street,Wellington Street,Collingwood ,East/North,120,West/South,5,125,35.6
+2011-Jun,Mary Street,Barkly Avenue,Burgess Street,Richmond,East/North,1431,West/South,1595,3026,24.8
+2011-Jun,North Street,Clark Street,River Street,Richmond,East/North,789,West/South,1189,1978,39.2
+2011-Jun,Rae Street,St Georges Road,Freeman Street,Fitzroy North,East/North,267,West/South,610,877,37.1
+2011-Jun,Richardson Street,Nicholson Street,Station Street,Carlton North,East/North,2128,West/South,2242,4370,39.2
+2011-Jun,Rose Street,Brighton Street,Mary Street,Richmond,East/North,887,West/South,1,888,37.4
+2011-Jun,Rowena Parade,Miller Street,Punt Road,Richmond,East/North,852,West/South,954,1806,37.8
+2011-Jun,Rowena Parade,Miller Street,Punt Road,Richmond,East/North,852,West/South,954,1806,37.8
+2011-Jun,Singleton Street,Down Street,Wellington Street,Collingwood ,East/North,336,West/South,502,838,29.5
+2011-Jun,Station Street,MacPherson Street,Richardson Street,Carlton North,East/North,323,West/South,548,871,41.8
+2011-Jun,Tanner Street,Tyson Street,Woodlawn Street,Richmond,East/North,323,West/South,392,715,34.6
+2011-Jun,Tanner Street,Tyson Street,Woodlawn Street,Richmond,East/North,323,West/South,392,715,34.6
+2010-Jun,Abbotsford Street,Clarke Street,Paterson Street,Abbotsford,East/North,600,West/South,235,835,40
+2010-Jun,Balmain Street,Cremorne Street,Cubitt Street,Richmond,East/North,2393,West/South,3193,5586,43.2
+2010-Jun,Balmain Street,Gwynne Street,Stephenson Street,Richmond,East/North,2857,West/South,3573,6430,38.5
+2010-Jun,Holtom Street West,Arnold Street,Bowen Crescent,Carlton North,East/North,505,West/South,490,995,48.6
+2010-Jun,Langridge Street,Rokeby Street,Wellington Street,Collingwood,East/North,4213,West/South,4991,9204,41.8
+2010-Jun,Langridge Street,Cromwell Street,Rupert Street,Collingwood,East/North,4262,West/South,5362,9624,38.2
+2010-Jun,Mary Street,James Street,Madden Grove,Richmond,East/North,2493,West/South,1929,4422,45.4
+2010-Jun,Masons Lane,Johnston Street,Valiant Street,Abbotsford,East/North,4,West/South,36,40,24.8
+2009-Jun,Reid Street,Nicholson Street,Rae Street,Fitzroy North,East/North,2312,West/South,2333,4645,38.9
+2018-Jul,Clifton Street,Gipps Street,Swan Street,Richmond,East/North,568,West/South,487,1055,44.5
+2018-Jul,Docker Street,Gipps Street,Swan Street,Richmond,East/North,583,West/South,549,1132,41.85
+2018-Jul,Dunn Street,Green Street,White Street,Richmond,East/North,608,West/South,626,1234,28.8
+2018-Jul,Lane number 69.1,Clifton Street,The Esplanade,Clifton Hill,East/North,32,West/South,10,42,26.3
+2018-Jul,McKean Street,Brennand Street,Rushall Crescent,Fitzroy North,East/North,405,West/South,12,417,40.3
+2018-Jul,Michael Street,McKean Street,Rowe Street,Fitzroy North,East/North,3580,West/South,3327,6907,47.16
+2018-Jul,Park Avenue,The Bend,Westbank Terrace,Richmond,East/North,18,West/South,38,56,20.14
+2018-Jul,Park Avenue,T Intersection,Westbank Terrace,Richmond,East/North,129,West/South,114,243,31.05
+2018-Jul,Stanley Street,Gipps Street,Swan Street,Richmond,East/North,822,West/South,809,1631,35.4
+2018-Jul,Willis Street,Brighton Street,Church Street,Richmond,East/North,166,West/South,5,171,28.75
+2018-Jul,Young Street,Duke Street,Victoria Parade,Fitzroy,East/North,443,West/South,20,463,28.17
+2017-Jul,Adolph Street,Church Street,Walnut Street,Richmond,East/North,629,West/South,20,649,37.3
+2017-Jul,Adolph Street,Chestnut Street,Walnut Street,Richmond,East/North,673,West/South,9,682,32.4
+2017-Jul,Argyle Street,Gore Street,Smith Street,Fitzroy,East/North,390,West/South,7,397,31
+2017-Jul,Berry Street,Ramsden Street,Spensley Street,Clifton Hill,East/North,553,West/South,855,1408,45.9
+2017-Jul,Best Street,Park Street,Scotchmer Street,Fitzroy North,East/North,315,West/South,204,519,39.2
+2017-Jul,Brunswick Street North,Reid Street,St Georges Road,Fitzroy North,East/North,1126,West/South,692,1818,41
+2017-Jul,Campbell Street,Gipps Street,McCutcheon Way,Collingwood,East/North,10,West/South,483,493,33.1
+2017-Jul,Campbell Street,McCutcheon Way,Vere Street,Collingwood,East/North,679,West/South,759,1438,34.6
+2017-Jul,Charlotte Street,Alexandra Parade,Mater Street,Collingwood,East/North,105,West/South,60,165,32.9
+2017-Jul,Cooke Street,Nelson Street,Victoria Street,Abbotsford,East/North,342,West/South,5,347,28.7
+2017-Jul,Derby Street,Cambridge Street,Oxford Street,Collingwood,East/North,477,West/South,807,1284,38.5
+2017-Jul,Drummond Street,Curtain Street,Fenwick Street,Carlton North,East/North,424,West/South,867,1291,43.2
+2017-Jul,Easey Street,Budd Street,Smith Street,Collingwood,East/North,734,West/South,743,1477,34.6
+2017-Jul,Egan Street,Lennox Street,New Street,Richmond,East/North,291,West/South,571,862,31.6
+2017-Jul,George Street,Moor Street,St David Street,Fitzroy,East/North,1091,West/South,846,1937,39.6
+2017-Jul,Gipps Street,Charles Street,Nicholson Street,Abbotsford,East/North,4104,West/South,4217,8321,38.3
+2017-Jul,Gipps Street,Cromwell Street,Rupert Street,Collingwood,East/North,4482,West/South,6043,10525,37.6
+2017-Jul,Hodgkinson Street,Hilton Street,Smith Street,Clifton Hill,East/North,313,West/South,414,727,37
+2017-Jul,Hull Street,Bosisto Street,Thomas Street,Richmond,East/North,234,West/South,260,494,32.9
+2017-Jul,Judd Street,Bridge Road,Cameron Street,Richmond,East/North,166,West/South,77,243,30.6
+2017-Jul,Keele Street,Gold Street,Wellington Street,Collingwood,East/North,481,West/South,325,806,37
+2017-Jul,Kerr Street,Fitzroy Street,Spring Street,Fitzroy,East/North,1113,West/South,462,1575,34.6
+2017-Jul,Laity Street,Church Street,Lambert Street,Richmond,East/North,250,West/South,5,255,34.9
+2017-Jul,Lee Street,Drummond Street,Rathdowne Street,Carlton North,East/North,225,West/South,403,628,37.4
+2017-Jul,McCutcheon Way,Campbell Street,Cromwell Street,Collingwood,East/North,293,West/South,937,1230,34.2
+2017-Jul,McKean Street,Delbridge Street,Grant Street,Fitzroy North,East/North,290,West/South,552,842,47.5
+2017-Jul,Miller Street,Ida Street,King Street,Fitzroy North,East/North,1637,West/South,1529,3166,40.3
+2017-Jul,Napier Street,Moor Street,St David Street,Fitzroy,East/North,382,West/South,514,896,33.8
+2017-Jul,Nicholson Street,Langridge Street,Victoria Street,Abbotsford,East/North,3296,West/South,3667,6963,36.5
+2017-Jul,Park Street,Stanton Street,Vere Street,Abbotsford,East/North,509,West/South,10,519,36.9
+2017-Jul,Peel Street,Cambridge Street,Oxford Street,Collingwood,East/North,1413,West/South,1281,2694,35.6
+2017-Jul,Rathdowne Street,Newry Street,Ogrady Street,Carlton North,East/North,6387,West/South,5560,11947,42.1
+2017-Jul,Rokeby Street,Gipps Street,Langridge Street,Collingwood,East/North,8,West/South,1134,1142,38.5
+2017-Jul,Rose Street,Fitzroy Street,Spring Street,Fitzroy,East/North,423,West/South,572,995,31.3
+2017-Jul,Roseneath Street,Hoddle Street,Rutland Street,Clifton Hill,East/North,2769,West/South,3167,5936,38.5
+2017-Jul,South Terrace,Gold Street,Hoddle Street,Clifton Hill,East/North,1379,West/South,1850,3229,37.4
+2017-Jul,Sturt Street,Gipps Street,McCutcheon Way,Collingwood,East/North,306,West/South,334,640,38.2
+2017-Jul,Wellington Street,Council Street,Page Street,Clifton Hill,East/North,3173,West/South,2833,6006,40.4
+2015-Jul,George Street,Gertrude Street,Victoria Parade,Fitzroy,East/North,1190,West/South,853,2043,42.1
+2015-Jul,Holtom Street East,Lygon Street,McIlwraith Street,Carlton North,East/North,66,West/South,299,365,39.6
+2015-Jul,Park Street,Bowen Crescent,Royal Parade,Carlton North,East/North,7886,West/South,6361,14247,48.2
+2015-Jul,Paterson Street,Arnold Street,Garton Street,Carlton North,East/North,773,West/South,10,783,40
+2015-Jul,Richardson Street,Arnold Street,Garton Street,Carlton North,East/North,15,West/South,541,556,40.3
+2015-Jul,Rokeby Street,Langridge Street,Victoria Parade,Collingwood,East/North,14,West/South,1039,1053,37.8
+2015-Jul,Solly Avenue,Arnold Street,Wilson Street,Carlton North,East/North,477,West/South,611,1088,38.5
+2015-Jul,Sutton Street,Curtain Street,Fenwick Street,Carlton North,East/North,86,West/South,1,87,23
+2015-Jul,Walnut Street,Balmain Street,Gordon Street,Richmond,East/North,67,West/South,118,185,24.5
+2015-Jul,Wertheim Street,Jago Street,Kennedy Avenue,Richmond,East/North,161,West/South,2,163,33.5
+2015-Jul,Wertheim Street,Kennedy Avenue,Stawell Street,Richmond,East/North,244,West/South,9,253,23.4
+2014-Jul,Charles Street,Gipps Street,Langridge Street,Abbotsford,East/North,267,West/South,301,568,44.6
+2014-Jul,Easey Street,Gold Street,Wellington Street,Collingwood,East/North,395,West/South,263,658,43.6
+2014-Jul,Keele Street,Gold Street,Wellington Street,Collingwood,East/North,475,West/South,305,780,43.9
+2014-Jul,Rooney Street,Barkly Avenue,Rose Street,Richmond,East/North,358,West/South,2132,2490,44.3
+2014-Jul,Sackville Street,Gold Street,Wellington Street,Collingwood,East/North,513,West/South,394,907,45
+2014-Jul,Wall Street,Coppin Street,Lord Street,Richmond,East/North,786,West/South,714,1500,39.2
+2013-Jul,Blazey Street,River Street,Vaughan Street,Richmond,East/North,327,West/South,197,524,40.7
+2013-Jul,Blazey Street,Burnley Street,Vaughan Street,Richmond,East/North,375,West/South,161,536,36
+2013-Jul,Crown Street,Burnley Street,Vaughan Street,Richmond,East/North,60,West/South,392,452,36.4
+2013-Jul,Crown Street,River Street,Vaughan Street,Richmond,East/North,217,West/South,389,606,40.7
+2013-Jul,David Street,Appleton Street,Doonside Street,Richmond,East/North,271,West/South,303,574,38.9
+2013-Jul,Jones Place,Bridge Road,Palmer Street,Richmond,East/North,746,West/South,508,1254,31.3
+2013-Jul,Murphy Street,River Street,Vaughan Street,Richmond,East/North,1367,West/South,1695,3062,46.8
+2013-Jul,Murphy Street,Burnley Street,Vaughan Street,Richmond,East/North,1542,West/South,1885,3427,48.6
+2013-Jul,Palmer Street,Burnley Street,River Street,Richmond,East/North,903,West/South,1241,2144,48.2
+2013-Jul,Richmond Boulevard,Elaine Court,Victoria Street,Richmond,East/North,3380,West/South,0,3380,31
+2013-Jul,Richmond Boulevard,Elaine Court,Victoria Street,Richmond,East/North,0,West/South,2848,2848,32.8
+2013-Jul,River Street,North Street,end,Richmond,East/North,372,West/South,384,756,37.1
+2013-Jul,River Street,Crown Street,North Street,Richmond,East/North,1139,West/South,892,2031,43.9
+2013-Jul,River Street,Murphy Street,Palmer Street,Richmond,East/North,2969,West/South,2588,5557,45.7
+2013-Jul,Stillman Street,Burnley Street,Type Street,Richmond,East/North,200,West/South,258,458,39.6
+2013-Jul,Type Street,Bridge Road,Stillman Street,Richmond,East/North,336,West/South,318,654,34.6
+2013-Jul,Tyson Street,Richmond Terrace,Tanner Street,Richmond,East/North,114,West/South,75,189,29.2
+2013-Jul,Vaughan Street,Blazey Street,Crown Street,Richmond,East/North,189,West/South,109,298,32
+2013-Jul,Vaughan Street,Crown Street,North Street,Richmond,East/North,179,West/South,255,434,31.3
+2013-Jul,Vaughan Street,Blazey Street,Murphy Street,Richmond,East/North,277,West/South,256,533,27.4
+2013-Jul,Whites Place,Bridge Road,Palmer Street,Richmond,East/North,30,West/South,391,421,20.5
+2012-Jul,Bowen Crescent,Paterson Street,Pigdon Street,Carlton North,East/North,1017,West/South,891,1908,39.2
+2012-Jul,Davis Street,Canning Street,Rathdowne Street,Carlton North,East/North,567,West/South,192,759,46.8
+2012-Jul,Drummond Street,Park Street,Pigdon Street,Carlton North,East/North,398,West/South,514,912,55.4
+2012-Jul,Drummond Street,Pigdon Street,Richardson Street,Carlton North,East/North,534,West/South,662,1196,52.9
+2012-Jul,Gwynne Street,Balmain Street,Munro Street,Richmond,East/North,253,West/South,244,497,33.1
+2012-Jul,Langridge Street,Charles Street,Park Street,Abbotsford ,East/North,2664,West/South,3786,6450,43.6
+2012-Jul,Stanley Street,Gipps Street,Swan Street,Richmond ,East/North,421,West/South,351,772,47.5
+2012-Jul,Young Street,Victoria Parade,Gertrude Street,Fitzroy ,East/North,569,West/South,32,601,37.8
+2011-Jul,Buckingham Street,Gardner Street,Johnson Street,Richmond,East/North,1548,West/South,1324,2872,40.7
+2011-Jul,Davison Street,Buckingham Street,Kent Street,Richmond,East/North,714,West/South,576,1290,40
+2011-Jul,Davison Street,Kent Street,Somerset Street,Richmond,East/North,786,West/South,613,1399,42.8
+2011-Jul,George Street,David Street,Greeves Street,Fitzroy ,East/North,933,West/South,759,1692,37.8
+2011-Jul,Kent Street,Davidson Street,Gardner Street,Richmond,East/North,338,West/South,376,714,39.6
+2011-Jul,Park Street,Bowen Crescent,Stranger Street,Carlton North,East/North,0,West/South,2876,2876,40.3
+2011-Jul,Paterson Street,McIlwraith Street,Wilson Street,Carlton North,East/North,567,West/South,406,973,48.2
+2011-Jul,Rae Street,Barkly Street,Clauscen Street,Fitzroy North,East/North,1013,West/South,1218,2231,40.3
+2011-Jul,Scotchmer Street,Mark Street,Woodhead Street,Fitzroy North,East/North,3328,West/South,3329,6657,48.2
+2011-Jul,Sherwood Street,Punt Road,Rotherwood Street,Richmond,East/North,264,West/South,209,473,36.7
+2011-Jul,Sherwood Street,Punt Road,Rotherwood Street,Richmond,East/North,264,West/South,209,473,36.7
+2011-Jul,Union Street,Bridge Road,Goodwood Street,Richmond,East/North,357,West/South,0,357,16.9
+2011-Jul,Verity Street,Bridge Road,Verity Street,Richmond,East/North,51,West/South,60,111,21.6
+2010-Jul,Abbotsford Street,Clarke Street,Paterson Street,Abbotsford,East/North,607,West/South,232,839,39.6
+2010-Jul,Bellevue Street,Bendigo Street,end,Richmond,East/North,127,West/South,128,255,30.6
+2010-Jul,Chapel Street,Chestnut Street,Church Street,Richmond,East/North,18,West/South,425,443,36
+2010-Jul,Clarke Street,Johnston Street,Valiant Street,Abbotsford,East/North,1375,West/South,1156,2531,33.8
+2010-Jul,Dunn Street,Green Street,White Street,Richmond,East/North,471,West/South,476,947,35.3
+2010-Jul,George Street,Gertrude Street,Little Victoria Street,Fitzroy,East/North,1016,West/South,750,1766,41.8
+2010-Jul,Gore Street,Gertrude Street,Little Victoria Street,Fitzroy,East/North,768,West/South,487,1255,43.2
+2010-Jul,Lane number 320.1,Johnston Street,Valiant Street,Abbotsford,East/North,13,West/South,4,17,24.5
+2010-Jul,Liverpool Street,Nicholson Street,Rae Street,Fitzroy North,East/North,246,West/South,145,391,34.9
+2010-Jul,Marion Lane,Marion Street,Royal Lane,Fitzroy,East/North,42,West/South,36,78,23
+2010-Jul,Newry Street,Drummond Street,Rathdowne Street,Carlton North,East/North,511,West/South,571,1082,44.6
+2010-Jul,Park Street,Drummond Street,Rathdowne Street,Carlton North,East/North,1950,West/South,2030,3980,51.5
+2010-Jul,Paterson Street,Keeley Lane,McIlwraith Street,Carlton North,East/North,564,West/South,401,965,50.8
+2010-Jul,Pigdon Street,Amess Street,Rathdowne Street,Carlton North,East/North,3016,West/South,2788,5804,45.4
+2010-Jul,Richardson Street,Drummond Street,Lygon Street,Carlton North,East/North,1142,West/South,964,2106,44.6
+2010-Jul,Richardson Street,Drummond Street,Rathdowne Street,Carlton North,East/North,1111,West/South,1027,2138,45
+2010-Jul,St Heliers Street,Clarke Street,end,Abbotsford,East/North,953,West/South,979,1932,27
+2010-Jul,St Heliers Street,Clarke Street,car park,Abbotsford,East/North,1027,West/South,1056,2083,27
+2010-Jul,Stephenson Street,Cubitt Street,Gwynne Street,Richmond,East/North,777,West/South,714,1491,46.4
+2010-Jul,Valiant Street,Clarke Street,Paterson Street,Abbotsford,East/North,15,West/South,233,248,30.2
+2009-Jul,Chapel Street,Chapel Street,Johnston Street,Fitzroy,East/North,61,West/South,132,193,30.2
+2009-Jul,Drummond Street,Curtain Street,Fenwick Street,Carlton North,East/North,331,West/South,740,1071,49.3
+2009-Jul,Freeman Street,Lennox Street,R.O.W.,Richmond,East/North,7,West/South,83,90,32
+2009-Jul,Hilton Street,Alexandra Parade,Council Street,Clifton Hill,East/North,108,West/South,150,258,36.7
+2009-Jul,Lane number 125.1,Budd Street,Wellington Street,Collingwood,East/North,16,West/South,12,28,16.9
+2009-Jul,Napier Street,Gertrude Street,Victoria Parade,Fitzroy,East/North,165,West/South,819,984,40.3
+2009-Jul,Napier Street,Kerr Street,Rose Street,Fitzroy,East/North,993,West/South,1147,2140,41
+2009-Jul,Nicholson Street,Studley Street,Yarra Street,Abbotsford,East/North,6018,West/South,6251,12269,45
+2009-Jul,Otter Street,Smith Street,Wellington Street,Collingwood,East/North,862,West/South,850,1712,36.4
+2009-Jul,Paterson Street,McIlwraith Street,Wilson Street,Carlton North,East/North,532,West/South,365,897,50.4
+2009-Jul,Ramsden Street,Clifton Avenue,Horne Street,Clifton Hill,East/North,696,West/South,1028,1724,39.6
+2009-Jul,Sheedy Street,Coppin Street,Mary Street,Richmond,East/North,70,West/South,7,77,32.8
+2009-Jul,Vere Street,Charles Street,Park Street,Abbotsford,East/North,22,West/South,436,458,30.2
+2009-Jul,William Street,Mollison Street,closure,Abbotsford,East/North,319,West/South,320,639,37.8
+2018-Aug,Alexander Street,Hotham Street,Alexandra Parade,Collingwood,East/North,89,West/South,51,140,37
+2018-Aug,Argyle Street,Brunswick Street,Young Street,Fitzroy,East/North,7,West/South,470,477,27
+2018-Aug,Ballarat Street,Hotham Street,Alexandra Parade,Collingwood,East/North,94,West/South,91,185,41
+2018-Aug,Bendigo Street,Hotham Street,Alexandra Parade,Collingwood,East/North,106,West/South,33,139,38.4
+2018-Aug,Bloomburg Street,Hoddle Street,Russell Steet,Abbotsford,East/North,94,West/South,560,654,38.3
+2018-Aug,Charlotte Street,Mater Street,Alexandra Parade,Collingwood,East/North,97,West/South,58,155,34.1
+2018-Aug,Cromwell Street,Langridge Street,Gipps Street,Collingwood,East/North,1196,West/South,7,1203,37.9
+2018-Aug,Cromwell Street,Victoria Parade,Langridge Street,Collingwood,East/North,2111,West/South,18,2129,33.6
+2018-Aug,Easey Street,Wellington Street,Gold Street,Collingwood,East/North,414,West/South,322,736,31.4
+2018-Aug,Easey Street,Smith Street,Budd Street,Collingwood,East/North,775,West/South,747,1522,33.2
+2018-Aug,Forest Street,Hotham Street,Alexandra Parade,Collingwood,East/North,60,West/South,37,97,37.3
+2018-Aug,Francis Street,Perry Street,Johnston Street,Collingwood,East/North,88,West/South,86,174,31.1
+2018-Aug,Gipps Street,Rupert Street,Cromwell Street,Collingwood,East/North,3439,West/South,4271,7710,39.7
+2018-Aug,Gold Street,Mater Street,Alexandra Parade,Collingwood,East/North,388,West/South,10,398,40.7
+2018-Aug,Gold Street,Keele Street,Hotham Street,Collingwood,East/North,782,West/South,666,1448,36.8
+2018-Aug,Gore Street,Webb Street,Charles Street,Fitzroy,East/North,1640,West/South,856,2496,40.8
+2018-Aug,Hamsworth Street,Vere Street,Perry Street,Collingwood,East/North,146,West/South,142,288,28.9
+2018-Aug,Hilton Street,Alexandra Parade,Council Street,Clifton Hill,East/North,54,West/South,132,186,37.49
+2018-Aug,Hotham Street,Wellington Street,Charlotte Street,Collingwood,East/North,507,West/South,418,925,42
+2018-Aug,Islington Street,Victoria Parade,Langridge Street,Collingwood,East/North,942,West/South,8,950,38.8
+2018-Aug,Keele Street,Gold Street,Hoddle Street,Collingwood,East/North,457,West/South,238,695,24.6
+2018-Aug,Keele Street,Wellington Street,Gold Street,Collingwood,East/North,434,West/South,285,719,36.2
+2018-Aug,Langridge Street,Rupert Street,Cromwell Street,Collingwood,East/North,3644,West/South,5286,8930,38.5
+2018-Aug,Little Abbot Street,Gold Street,Hoddle Street,Collingwood,East/North,19,West/South,15,34,28.7
+2018-Aug,Mater Street,Wellington Street,Charlotte Street,Collingwood,East/North,377,West/South,228,605,34.4
+2018-Aug,McCutcheon Way,Sturt Street,Cromwell Street,Collingwood,East/North,657,West/South,131,788,35.3
+2018-Aug,Napier Street,Rose Street,Leicester Street,Fitzroy,East/North,1568,West/South,462,2030,40
+2018-Aug,Perry Street,Dight Street,Campbell Street,Collingwood,East/North,499,West/South,385,884,28.3
+2018-Aug,Rokeby Street,Victoria Parade,Langridge Street,Collingwood,East/North,10,West/South,1254,1264,36.5
+2018-Aug,Rupert Street,Langridge Street,Gipps Street,Collingwood,East/North,2,West/South,825,827,37.8
+2018-Aug,Rupert Street,Victoria Parade,Langridge Street,Collingwood,East/North,5,West/South,1352,1357,40.9
+2018-Aug,Sackville Street,Gold Street,Hoddle Street,Collingwood,East/North,791,West/South,275,1066,39
+2018-Aug,Stanley Street,Oxford Street,Cambridge Street,Collingwood,East/North,1696,West/South,1277,2973,31.1
+2018-Aug,Wellington Street,Mater Street,Alexandra Parade,Collingwood,East/North,4353,West/South,5894,10247,41
+2018-Aug,Wellington Street,Gipps Street,Stanley Street,Collingwood,East/North,5523,West/South,6150,11673,43
+2018-Aug,Wellington Street,Otter Street,Perry Street,Collingwood,East/North,5723,West/South,6619,12342,45
+2018-Aug,Westgarth Street,Brunswick Street,Young Street,Fitzroy,East/North,1190,West/South,1164,2354,38.4
+2018-Aug,Young Street,Kerr Street,Rose Street,Fitzroy,East/North,701,West/South,1,702,39
+2017-Aug,Amess Street,Fenwick Street,MacPherson Street,Carlton North,East/North,135,West/South,306,441,46.1
+2017-Aug,Charlotte Street,Charles Street,Church Street,Richmond,East/North,338,West/South,330,668,41.4
+2017-Aug,Coppin Street,Abinger Street,Wall Street,Richmond,East/North,3234,West/South,4148,7382,40.2
+2017-Aug,Falconer Street,Delbridge Street,Michael Street,Fitzroy North,East/North,872,West/South,661,1533,42.4
+2017-Aug,Gold Street,Hodgkinson Street,Page Street,Clifton Hill,East/North,1938,West/South,2112,4050,36.2
+2017-Aug,Highett Street,Coppin Street,Gleadell Street,Richmond,East/North,6010,West/South,5934,11944,45.8
+2017-Aug,Leslie Street,Buckingham Street,Victoria Street,Richmond,East/North,279,West/South,367,646,40.1
+2017-Aug,MacPherson Street,Amess Street,Rathdowne Street,Carlton North,East/North,489,West/South,244,733,39.2
+2017-Aug,Malleson Street,Lyndhurst Street,Mary Street,Richmond,East/North,402,West/South,398,800,40.5
+2017-Aug,Manton Street,Burnley Street,Cutter Street,Richmond,East/North,698,West/South,213,911,38.3
+2017-Aug,Rowe Street,Alfred Crescent,Delbridge Street,Fitzroy North,East/North,594,West/South,931,1525,43.6
+2017-Aug,Yarra Street,Nicholson Street,Park Street,Abbotsford,East/North,456,West/South,2,458,36.7
+2016-Aug,Kent Street,Gardner Street,McKenzie Street,Richmond,East/North,371,West/South,436,807,41
+2016-Aug,Taylor Street,Glenlyon Road,Miller Street,Fitzroy North,East/North,263,West/South,206,469,41.6
+2015-Aug,Appleton Street,Clark Street,David Street,Richmond,East/North,100,West/South,154,254,34.2
+2015-Aug,Bedford Street,Johnston Street,Perry Street,Collingwood,East/North,359,West/South,14,373,28.4
+2015-Aug,Blazey Street,Burnley Street,Vaughan Street,Richmond,East/North,388,West/South,141,529,35.3
+2015-Aug,Cambridge Street,Peel Street,Stanley Street,Collingwood,East/North,557,West/South,646,1203,43.2
+2015-Aug,Cromwell Street,Gipps Street,Langridge Street,Collingwood,East/North,1010,West/South,11,1021,38.5
+2015-Aug,Derby Street,Cambridge Street,Oxford Street,Collingwood,East/North,428,West/South,833,1261,39.2
+2015-Aug,Dight Street,Singleton Street,Vere Street,Collingwood,East/North,7,West/South,163,170,34.2
+2015-Aug,Gipps Street,Cromwell Street,Islington Street,Collingwood,East/North,4460,West/South,3352,7812,39.6
+2015-Aug,Gough Street,Cremorne Street,Melrose Street,Richmond,East/North,815,West/South,703,1518,42.5
+2015-Aug,Langridge Street,Cromwell Street,Rupert Street,Collingwood,East/North,4354,West/South,5904,10258,38.9
+2015-Aug,Mason Street,Cambridge Street,Smith Street,Collingwood,East/North,376,West/South,8,384,30.6
+2015-Aug,McCutcheon Way,Campbell Street,Cromwell Street,Collingwood,East/North,282,West/South,807,1089,33.5
+2015-Aug,Murphy Street,River Street,Vaughan Street,Richmond,East/North,1328,West/South,1894,3222,43.2
+2015-Aug,North Street,Burnley Street,Vaughan Street,Richmond,East/North,440,West/South,731,1171,38.9
+2015-Aug,Oxford Street,Peel Street,Stanley Street,Collingwood,East/North,657,West/South,634,1291,39.6
+2015-Aug,Palmer Street,Burnley Street,River Street,Richmond,East/North,937,West/South,1342,2279,44.3
+2015-Aug,Peel Street,Cambridge Street,Oxford Street,Collingwood,East/North,1068,West/South,1016,2084,38.5
+2015-Aug,Perry Street,Bedford Street,Wellington Street,Collingwood,East/North,476,West/South,4,480,36.7
+2015-Aug,Perry Street,Harmsworth Street,Wellington Street,Collingwood,East/North,674,West/South,561,1235,35.3
+2015-Aug,Rae Street,Reid Street,Scotchmer Street,Fitzroy North,East/North,804,West/South,1343,2147,40
+2015-Aug,River Street,Crown Street,North Street,Richmond,East/North,1100,West/South,803,1903,38.9
+2015-Aug,Rokeby Street,Langridge Street,Victoria Parade,Collingwood,East/North,19,West/South,1061,1080,37.1
+2015-Aug,Rupert Street,Langridge Street,Victoria Parade,Collingwood,East/North,18,West/South,1231,1249,42.1
+2015-Aug,Whites Place,Bridge Road,Palmer Street,Richmond,East/North,22,West/South,393,415,20.9
+2014-Aug,Alexander Street,Alexandra Parade,Hotham Street,Collingwood,East/North,85,West/South,85,170,38.2
+2014-Aug,Best Street,Park Street,Scotchmer Street,Fitzroy North,East/North,278,West/South,163,441,43.6
+2014-Aug,Egan Street,Lennox Street,New Street,Richmond,East/North,307,West/South,594,901,37.8
+2014-Aug,Falconer Street,Delbridge Street,Michael Street,Fitzroy North,East/North,944,West/South,688,1632,42.8
+2014-Aug,Gold Street,Alexandra Parade,Mater Street,Collingwood,East/North,269,West/South,184,453,41.4
+2014-Aug,Hoddle Street (Service Road),Hotham Street,Keele Street,Collingwood,East/North,1550,West/South,18,1568,32.8
+2014-Aug,Holtom Street East,Lygon Street,McIlwraith Street,Carlton North,East/North,93,West/South,314,407,41.4
+2014-Aug,Jamieson Street,McKean Street,Queens Parade,Fitzroy North,East/North,456,West/South,342,798,41
+2014-Aug,McKean Street,Delbridge Street,Grant Street,Fitzroy North,East/North,315,West/South,682,997,49
+2014-Aug,Pigdon Street,Arnold Street,Garton Street,Carlton North,East/North,3085,West/South,2917,6002,39.6
+2014-Aug,Rowe Street,Alfred Crescent,Delbridge Street,Fitzroy North,East/North,665,West/South,735,1400,46.1
+2014-Aug,Wellington Street,Johnston Street,Sackville Street,Collingwood,East/North,5401,West/South,5821,11222,43.6
+2014-Aug,Wellington Street,Alexandra Parade,Mater Street,Collingwood,East/North,5440,West/South,6782,12222,43.9
+2013-Aug,Barkly Street,Dean Street,Pilkington Street,Fitzroy North,East/North,662,West/South,530,1192,39.6
+2013-Aug,Parkins Lane,Cremorne Street,Wellington Street,Richmond,East/North,17,West/South,79,96,23.8
+2013-Aug,Wellington Street,Blanche Street,Parkins Lane,Richmond,East/North,157,West/South,43,200,31.3
+2013-Aug,Wellington Street,Blanche Street,Rout Street,Richmond,East/North,217,West/South,186,403,40.3
+2012-Aug,Abbotsford Street,Hunter Street,Paterson Street,Abbotsford ,East/North,982,West/South,553,1535,37.8
+2012-Aug,Clarke Street,St Helliers Street,Johnston Street,Abbotsford ,East/North,1226,West/South,1044,2270,32.8
+2012-Aug,Lulie Street,Johnston Street,Turner Street,Abbotsford ,East/North,1001,West/South,1064,2065,45.7
+2012-Aug,MacPherson Street,Nicholson Street,Station Street,Carlton North,East/North,201,West/South,177,378,38.2
+2012-Aug,Marine Parade,Nicholson Street,Hunter Street,Abbotsford ,East/North,743,West/South,581,1324,39.6
+2012-Aug,Maugie Street,Lulie Street,Trenerry Crescent,Abbotsford ,East/North,460,West/South,477,937,45.7
+2012-Aug,Newlands Street,Highett Street,Somerset Street,Richmond ,East/North,14,West/South,341,355,26.6
+2012-Aug,Newlands Street,Kent Street,Somerset Street,Richmond ,East/North,380,West/South,196,576,35.6
+2012-Aug,Trenerry Crescent,Johnston Street,Turner Street,Abbotsford ,East/North,4091,West/South,2339,6430,35.6
+2012-Aug,Trenerry Crescent,Dight Falls,,Abbotsford ,East/North,4034,West/South,2470,6504,45
+2012-Aug,Valiant Street,Clarke Street,Paterson Street,Abbotsford ,East/North,20,West/South,274,294,31
+2012-Aug,Woodside street,Michael Street,Rushall Street,Fitzroy North,East/North,9,West/South,190,199,36
+2012-Aug,Yarra Boulevard,FWY Overpass,Swan Street,Richmond ,East/North,1419,West/South,1084,2503,52.6
+2012-Aug,Yarra Boulevard,FWY Overpass,Loyola Grove,Richmond ,East/North,1464,West/South,1098,2562,59.4
+2012-Aug,Yarra Boulevard,Bridge Road,Swan Street,Richmond ,East/North,2972,West/South,3520,6492,54
+2012-Aug,Yarra Street,Hunter Street,Nicholson Street,Abbotsford ,East/North,5,West/South,147,152,36.4
+2011-Aug,Como Street,Chamouni Street,St Bernards Road,Alphington,East/North,531,West/South,587,1118,48.2
+2011-Aug,La Trobe Avenue,Heidelberg Road,Lugton Street,Alphington,East/North,12,West/South,17,29,40
+2011-Aug,Lucerne Crescent,Geneva Road,Gothard Road,Alphington ,East/North,99,West/South,115,214,49
+2011-Aug,Lucerne Crescent,Chamouni Street,Constance Street,Alphington ,East/North,336,West/South,479,815,45.7
+2011-Aug,Lygon Street,MacPherson Street,Richardson Street,Carlton North,East/North,11917,West/South,11540,23457,60.1
+2011-Aug,Union Street,Bridge Road,Goodwood Street,Richmond,East/North,241,West/South,0,241,42.8
+2011-Aug,Union Street,Bridge Road,Goodwood Street,Richmond,East/North,0,West/South,355,355,17.3
+2011-Aug,Union Street,Bridge Road,Goodwood Street,Richmond,East/North,355,West/South,0,355,17.3
+2011-Aug,View Street,Laneway,Riverview Street,Alphington ,East/North,443,West/South,271,714,49.7
+2011-Aug,Yarralea Street,Gibson Street,Killop Street,Alphington ,East/North,573,West/South,606,1179,35.6
+2010-Aug,Adolph Street,Chestnut Street,Walnut Street,Richmond,East/North,280,West/South,17,297,33.5
+2010-Aug,Bennett Street,Buckingham Street,Victoria Street,Richmond,East/North,478,West/South,234,712,38.2
+2010-Aug,Gordon Street,Ramsden Street,Roseneath Street,Clifton Hill,East/North,874,West/South,1,875,44.6
+2010-Aug,Gray Street,Noone Street,Roseneath Street,Clifton Hill,East/North,2762,West/South,2398,5160,42.8
+2010-Aug,Groom Street,Noone Street,Roseneath Street,Clifton Hill,East/North,443,West/South,363,806,42.1
+2010-Aug,Hilton Street,Alexandra Parade,Council Street,Clifton Hill,East/North,68,West/South,143,211,35.3
+2010-Aug,Kiewa Street,Dally Street,Roseneath Street,Clifton Hill,East/North,134,West/South,89,223,31.3
+2010-Aug,Lane number 316,Vere Street,Yarra Street,Abbotsford,East/North,108,West/South,18,126,22
+2010-Aug,Little Butler Street,Lennox Street,Shelley Street,Richmond,East/North,80,West/South,30,110,30.6
+2010-Aug,Little Kent Street,McKenzie Street,Newlands Street,Richmond,East/North,31,West/South,34,65,29.5
+2010-Aug,Noone Street,Gray Street,Groom Street,Clifton Hill,East/North,364,West/South,1473,1837,46.4
+2010-Aug,Roseneath Street,Field Street,Gray Street,Clifton Hill,East/North,326,West/South,965,1291,43.2
+2010-Aug,Roseneath Street,Gray Street,Kiewa Street,Clifton Hill,East/North,2230,West/South,1444,3674,41.8
+2010-Aug,Rutland Street,Noone Street,Roseneath Street,Clifton Hill,East/North,480,West/South,519,999,46.8
+2010-Aug,Somerset Street,Burnley Street,Davison Street,Richmond,East/North,751,West/South,458,1209,46.1
+2010-Aug,Yambla Street,Ramsden Street,Roseneath Street,Clifton Hill,East/North,1876,West/South,26,1902,36
+2009-Aug,Arbinger Street,Coppin Street,Mary Street,Richmond,East/North,537,West/South,541,1078,38.2
+2009-Aug,Barkly Street,Dean Street,Melville Street,Fitzroy North,East/North,744,West/South,569,1313,40
+2009-Aug,Barkly Street,Dean Street,Rae Street,Fitzroy North,East/North,561,West/South,1008,1569,38.2
+2009-Aug,Bennett Street,Park Street,Scotchmer Street,Fitzroy North,East/North,157,West/South,261,418,45
+2009-Aug,Bowen Crescent,Lang Street,Pigdon Street,Carlton North,East/North,4017,West/South,3897,7914,38.5
+2009-Aug,Canning Street,Davis Street,Princes Street,Carlton North,East/North,233,West/South,322,555,38.5
+2009-Aug,Coate Avenue,Heidelberg Road,Rex Avenue,Alphington,East/North,168,West/South,159,327,52.2
+2009-Aug,Coppin Street,Madden Grove,Rose Street,Richmond,East/North,1831,West/South,588,2419,38.9
+2009-Aug,Davis Street,Canning Street,Rathdowne Street,Carlton North,East/North,512,West/South,99,611,48.6
+2009-Aug,Dean Street,Barkly Street,Holden Street,Fitzroy North,East/North,848,West/South,252,1100,42.1
+2009-Aug,Edinburgh Street,Fraser Street,Swan Street,Richmond,East/North,422,West/South,384,806,42.1
+2009-Aug,Fenwick Street,Walker Street,Wright Street,Clifton Hill,East/North,1907,West/South,1009,2916,42.5
+2009-Aug,Lee Street,Nicholson Street,Station Street,Carlton North,East/North,242,West/South,51,293,37.1
+2009-Aug,Lee Street,Canning Street,Rathdowne Street,Carlton North,East/North,17,West/South,415,432,35.6
+2009-Aug,Lee Street,Canning Street,Station Street,Carlton North,East/North,419,West/South,455,874,38.2
+2009-Aug,MacPherson Street,McIlwraith Street,Wilson Street,Carlton North,East/North,1330,West/South,631,1961,52.9
+2009-Aug,McIlwraith Street,Richardson Street,Paterson Street,Carlton North,East/North,266,West/South,270,536,42.8
+2009-Aug,Napier Street,Gertrude Street,Little Victoria Street,Fitzroy,East/North,150,West/South,649,799,41.4
+2009-Aug,Napier Street,Gertrude Street,Victoria Parade,Fitzroy,East/North,714,West/South,296,1010,34.9
+2009-Aug,Neptune Street,Bridge Road,Corsair Street,Richmond,East/North,177,West/South,208,385,37.4
+2009-Aug,North Street,Burnley Street,Vaughan Street,Richmond,East/North,887,West/South,1220,2107,34.9
+2009-Aug,Pigdon Street,McIlwraith Street,Wilson Street,Carlton North,East/North,3566,West/South,3022,6588,42.5
+2009-Aug,Richardson Street,McIlwraith Street,Wilson Street,Carlton North,East/North,336,West/South,509,845,44.6
+2009-Aug,Station Street,Lee Street,Princes Street,Carlton North,East/North,151,West/South,595,746,36.7
+2009-Aug,Station Street,Lee Street,Newry Street,Carlton North,East/North,160,West/South,859,1019,40.7
+2009-Aug,Wall Street,Coppin Street,Lord Street,Richmond,East/North,774,West/South,837,1611,41.4
+2009-Aug,Yarra Falls Lane,Trenerry Crescent,end,Clifton Hill,East/North,154,West/South,205,359,31.3
+2018-Sep,Aitken Street,Keiwa Street,Ramsden Street,Clifton Hill,East/North,51,West/South,62,113,27.2
+2018-Sep,Easey Street,Gold Street,Hoddle Street,Collingwood,East/North,288,West/South,243,531,43.5
+2018-Sep,Grant Street,Heidelberg Road,Spensley Street,Clifton Hill,East/North,143,West/South,832,975,46.3
+2018-Sep,Hotham Street,Ballarat Street,Alexandra Parade,Collingwood,East/North,326,West/South,489,815,41.7
+2018-Sep,Palmer Street,Perry Street,Johnson Street,Collingwood,East/North,140,West/South,129,269,33.9
+2018-Sep,Regent Street,Elizabeth Street,York Street,Richmond,East/North,953,West/South,6,959,36.6
+2018-Sep,Sackville Street,Wellington Street,Gold Street,Collingwood,East/North,504,West/South,334,838,35
+2018-Sep,Wellington Street,Victoria Parade,Langridge Street,Collingwood,East/North,4042,West/South,3193,7235,36.4
+2018-Sep,Wellington Street,Easey Street,Sackville Street,Collingwood,East/North,5470,West/South,5830,11300,41.9
+2018-Sep,Wellington Street,Keele Street,Hotham Street,Collingwood,East/North,5351,West/South,6333,11684,41
+2018-Sep,York Street,Hoddle Street,New Street,Richmond,East/North,777,West/South,584,1361,35.5
+2016-Sep,Canning Street,Davis Street,Princes Street,Carlton North,East/North,178,West/South,370,548,35.4
+2016-Sep,Davis Street,Canning Street,Rowy Street,Carlton North,East/North,491,West/South,228,719,45.6
+2016-Sep,Drummond Street,Richardson Street,MacPherson Street,Carlton North,East/North,395,West/South,728,1123,39.9
+2016-Sep,Drummond Street,Newry Street,Lee Street,Carlton North,East/North,309,West/South,1027,1336,43.6
+2016-Sep,Fenwick Street,Drummond Street,Rathdowne Street,Carlton North,East/North,259,West/South,367,626,37.6
+2016-Sep,Fenwick Street,Canning Street,Station Street,Carlton North,East/North,585,West/South,529,1114,38.6
+2016-Sep,Lee Street,Canning Street,Station Street,Carlton North,East/North,293,West/South,507,800,35.3
+2016-Sep,Parkins Lane,Parkins Lane,Wellington Street,Richmond,East/North,138,West/South,22,160,15.5
+2016-Sep,Parkins Lane,Cremorne Street,Wellington Street,Richmond,East/North,15,West/South,146,161,18.7
+2016-Sep,Pigdon Street,Canning Street,Station Street,Carlton North,East/North,2662,West/South,2540,5202,38.8
+2016-Sep,Pigdon Street,Drummond Street,Rathdowne Street,Carlton North,East/North,2901,West/South,3510,6411,40.4
+2016-Sep,Rae Street,Alexandra Parade,York Street,Fitzroy North,East/North,241,West/South,1408,1649,41.4
+2016-Sep,Rathdowne Street,Pigdon Street,Richardson Street,Carlton North,East/North,4584,West/South,3877,8461,42.6
+2016-Sep,Rathdowne Street,Newry Street,Ogrady Street,Carlton North,East/North,6608,West/South,5897,12505,42
+2016-Sep,Richardson Street,Drummond Street,Rathdowne Street,Carlton North,East/North,898,West/South,929,1827,28.5
+2016-Sep,Richardson Street,Canning Street,Station Street,Carlton North,East/North,1771,West/South,1920,3691,38.3
+2016-Sep,Station Street,Princes Street,Lee Street,Carlton North,East/North,97,West/South,355,452,32.4
+2016-Sep,Station Street,Lee Street,Newry Street,Carlton North,East/North,151,West/South,877,1028,38.2
+2016-Sep,Stewart Street,Tennyson Street,Wangaratta Street,Richmond,East/North,859,West/South,477,1336,31.7
+2016-Sep,Stewart Street service road,Stewart Street,Wangaratta Street,Richmond,East/North,26,West/South,76,102,16.6
+2016-Sep,Wangaratta Street,Stewart Street,Tanner Street,Richmond,East/North,546,West/South,317,863,28.4
+2016-Sep,Webb Street,Gore Street,Smith Street,Fitzroy,East/North,377,West/South,808,1185,33.5
+2015-Sep,Campbell Street,Gipps Street,McCutcheon Way,Collingwood,East/North,13,West/South,429,442,35.6
+2015-Sep,River Street,Murphy Street,Palmer Street,Richmond,East/North,3239,West/South,2521,5760,42.5
+2014-Sep,Argyle Street,Nicholson Street,Spring Street,Fitzroy,East/North,9,West/South,406,415,35.6
+2014-Sep,Argyle Street,Napier Street,Young Street,Fitzroy,East/North,19,West/South,428,447,31.3
+2014-Sep,Argyle Street,Fitzroy Street,Spring Street,Fitzroy,East/North,22,West/South,547,569,36
+2014-Sep,Argyle Street,Brunswick Street,Fitzroy Street,Fitzroy,East/North,152,West/South,834,986,29.9
+2014-Sep,Cecil Street,Fitzroy Street,Nicholson Street,Fitzroy,East/North,2,West/South,273,275,34.6
+2014-Sep,Fitzroy Street,Gertrude Street,Palmer Street,Fitzroy,East/North,6,West/South,413,419,31.7
+2014-Sep,Henry Street,Nicholson Street,Spring Street,Fitzroy,East/North,125,West/South,66,191,30.6
+2014-Sep,Kerr Street,Brunswick Street,Young Street,Fitzroy,East/North,1089,West/South,29,1118,34.6
+2014-Sep,Leicester Street,George Street,Napier Street,Fitzroy,East/North,199,West/South,3,202,36.4
+2014-Sep,Leicester Street,Fitzroy Street,Nicholson Street,Fitzroy,East/North,3,West/South,239,242,36.4
+2014-Sep,Madden Grove,Gibdon Street,Loyola Grove,Richmond,East/North,1446,West/South,1806,3252,41.8
+2014-Sep,Manton Street,Burnley Street,Cutter Street,Richmond,East/North,418,West/South,388,806,40.3
+2014-Sep,Moor Street,George Street,Gore Street,Fitzroy,East/North,975,West/South,509,1484,37.1
+2014-Sep,Napier Street,Moor Street,St David Street,Fitzroy,East/North,330,West/South,529,859,37.8
+2014-Sep,Rose Street,George Street,Napier Street,Fitzroy,East/North,10,West/South,281,291,30.6
+2014-Sep,Rose Street,Fitzroy Street,Nicholson Street,Fitzroy,East/North,215,West/South,318,533,31.3
+2014-Sep,Rose Street,Napier Street,Young Street,Fitzroy,East/North,554,West/South,23,577,33.8
+2014-Sep,Stawell Street,Barkly Avenue,Madden Grove,Richmond,East/North,254,West/South,233,487,40.3
+2014-Sep,Victoria Street,Fitzroy Street,Nicholson Street,Fitzroy,East/North,855,West/South,374,1229,38.2
+2013-Sep,Cambridge Street,Mason Street,Derby Street,Collingwood,East/North,1064,West/South,541,1605,39.2
+2013-Sep,Cromwell Street,Langridge Street,Victoria Parade,Collingwood,East/North,1167,West/South,17,1184,38.9
+2013-Sep,Kerr Street,Napier Street,Young Street,Fitzroy,East/North,1417,West/South,513,1930,38.2
+2013-Sep,Kerr Street,George Street,Napier Street,Fitzroy,East/North,1382,West/South,1083,2465,39.6
+2013-Sep,Langridge Street,Smith Street,Wellington Street,Collingwood,East/North,4024,West/South,4669,8693,41
+2013-Sep,Langridge Street,Rokeby Street,Wellington Street,Collingwood,East/North,3784,West/South,5100,8884,40.7
+2013-Sep,Langridge Street,Cromwell Street,Rupert Street,Collingwood,East/North,4130,West/South,5337,9467,41
+2013-Sep,Napier Street,Kerr Street,Rose Street,Fitzroy,East/North,847,West/South,1029,1876,31.7
+2013-Sep,Napier Street,Argyle Street,Kerr Street,Fitzroy,East/North,903,West/South,1692,2595,34.9
+2013-Sep,Oxford Street,Derby Street,Mason Street,Collingwood,East/North,244,West/South,185,429,30.6
+2013-Sep,Rupert Street,Langridge Street,Victoria Parade,Collingwood,East/North,25,West/South,965,990,43.2
+2013-Sep,Wellington Street,Northumberland Street,Victoria Parade,Collingwood,East/North,3760,West/South,4746,8506,49
+2012-Sep,Abbotsford Street,Hunter Street,Paterson Street,Abbotsford ,East/North,825,West/South,299,1124,45.4
+2012-Sep,Balmain Street,Chestnut Street,Church Street,Richmond,East/North,2372,West/South,3501,5873,43.6
+2012-Sep,Boland Street,Burnley Street,Type Street,Richmond,East/North,292,West/South,192,484,39.6
+2012-Sep,Chapel Street,Chestnut Street,Green Street,Richmond,East/North,372,West/South,540,912,32
+2012-Sep,Davis Street,Brighton Street,Mary Street,Richmond,East/North,10,West/South,144,154,36.7
+2012-Sep,Dickens Street,Burnley Street,Type Street,Richmond ,East/North,122,West/South,6,128,29.5
+2012-Sep,Glasshouse Street,Type Street,Stawell Street,Richmond ,East/North,285,West/South,95,380,32.4
+2012-Sep,Gwynne Street,Balmain Street,Munro Street,Richmond,East/North,271,West/South,258,529,34.2
+2012-Sep,Kelso Street,Cremorne Street,Melrose Street,Richmond,East/North,860,West/South,617,1477,45.4
+2012-Sep,Richardson Street,Lygon Street,Wilson Street,Carlton North,East/North,412,West/South,600,1012,45.4
+2012-Sep,Tudor Street,Lightfoot Street,Longfield Street,Richmond ,East/North,471,West/South,266,737,40
+2012-Sep,Type Street,Dickens Street,Stillman Street,Richmond ,East/North,275,West/South,578,853,33.8
+2012-Sep,Wellington Street,Blanche Street,Perkins Street,Richmond,East/North,95,West/South,48,143,26.6
+2011-Sep,Barkly Avenue,Brighton Street,Mary Street,Richmond,East/North,5,West/South,282,287,27.4
+2011-Sep,Brighton Street,Barkly Avenue,Burgess Street,Richmond,East/North,860,West/South,835,1695,33.1
+2011-Sep,Burgess Street,Mary Street,Brighton Street,Richmond,East/North,4,West/South,163,167,33.1
+2011-Sep,Carroll Street,Richmond Terrace,Gipps Street,Richmond,East/North,62,West/South,49,111,35.6
+2011-Sep,Carroll Street,Gipps Street,Richmond Terrace,Richmond,East/North,62,West/South,49,111,35.6
+2011-Sep,Clifton Street,Richmond Terrace,Gipps Street,Richmond,East/North,172,West/South,124,296,45
+2011-Sep,Clifton Street,Richmond Terrace,Gipps Street,Richmond,East/North,172,West/South,124,296,45
+2011-Sep,Coate Avenue,Heidelberg Road,Rex Avenue,Alphington,East/North,239,West/South,235,474,48.2
+2011-Sep,Constance Street,Como Street,Lucerne Crescent,Alphington,East/North,114,West/South,281,395,42.1
+2011-Sep,Dando Street,Gipps Street,Richmond Terrace,Richmond,East/North,34,West/South,32,66,35.6
+2011-Sep,Dando Street,Richmond Terrace,Gipps Street,Richmond,East/North,34,West/South,31,65,35.6
+2011-Sep,Davis Street,Canning Street,Rathdowne Street,Carlton North,East/North,602,West/South,236,838,48.6
+2011-Sep,Gipps Street,Waverley Street,Docker Street,Richmond,East/North,1274,West/South,1272,2546,35.3
+2011-Sep,Gipps Street,Docker Street,Waverley Street,Richmond,East/North,1274,West/South,1272,2546,35.3
+2011-Sep,Goodwin Street,Brighton Street,Mary Street,Richmond,East/North,4,West/South,30,34,28.8
+2011-Sep,James Street,Brighton Street,Mary Street,Richmond,East/North,498,West/South,464,962,43.9
+2011-Sep,Park Street,Birkenhead Street,Brunswick Street,Fitzroy North,East/North,297,West/South,40,337,38.9
+2011-Sep,Park Street,Best Street,Birkenhead Street,Fitzroy North,East/North,336,West/South,26,362,38.2
+2011-Sep,Park Street,Best Street,Taplin street,Fitzroy North,East/North,465,West/South,35,500,35.6
+2011-Sep,Richmond Terrace,Docker Street,Waverley Street,Richmond,East/North,408,West/South,432,840,37.1
+2011-Sep,Richmond Terrace,Docker Street,Waverley Street,Richmond,East/North,408,West/South,432,840,37.1
+2011-Sep,Richmond Terrace,Lennox Street,Carroll Street,Richmond,East/North,621,West/South,789,1410,44.3
+2011-Sep,Richmond Terrace,Carroll Street,Lennox Street,Richmond,East/North,621,West/South,789,1410,44.3
+2011-Sep,St Bernards Road,Como Street,Lucerne Crescent,Alphington ,East/North,106,West/South,192,298,46.8
+2011-Sep,Stanley Street,Gipps Street,Richmond Terrace,Richmond,East/North,165,West/South,136,301,47.2
+2011-Sep,Waverley Street,Gipps Street,Richmond Terrace,Richmond,East/North,89,West/South,36,125,49
+2011-Sep,Waverley Street,Gipps Street,Richmond Terrace,Richmond,East/North,89,West/South,36,125,34.9
+2011-Sep,Yarraford Avenue,Heidelberg Road,Dual Carriageway,Alphington ,East/North,181,West/South,177,358,43.6
+2010-Sep,George Street,Greeves Street,St David Street,Fitzroy,East/North,924,West/South,800,1724,36
+2010-Sep,Gore Street,Greeves Street,St David Street,Fitzroy,East/North,986,West/South,265,1251,43.9
+2010-Sep,Manton Street,Burnley Street,Cutter Street,Richmond,East/North,430,West/South,375,805,41.8
+2009-Sep,Muir Street,Erin Street,Freeman Street,Richmond,East/North,1114,West/South,12,1126,29.2
+2018-Oct,Brighton Street,Albert Street,Goodwin Street,Richmond,East/North,1191,West/South,647,1838,38.6
+2018-Oct,Brighton Street,Goodwin Street,Albert Street,Richmond,East/North,999,West/South,541,1540,38.61
+2018-Oct,Brunswick Street North,Park Street,Scotchmer Street,Fitzroy North,East/North,1567,West/South,1603,3170,40.9
+2018-Oct,Freeman Street,Nicholson Street,St Georges Road,Fitzroy North,East/North,967,West/South,323,1290,44.5
+2018-Oct,Gleadell Street,Highett Street,midblock crossing,Richmond,East/North,928,West/South,1051,1979,33.7
+2018-Oct,Gleadell Street,Bridge Road,midblock crossing,Richmond,East/North,1104,West/South,1148,2252,39
+2018-Oct,Little Turner Street,Lulie Street,Rich Street,Abbotsford,East/North,54,West/South,80,134,30.3
+2018-Oct,Little Turner Street,Rich Street,Trenerry Crescent,Abbotsford,East/North,82,West/South,122,204,29.2
+2018-Oct,Park Street,Johnston Street,Stafford Street,Abbotsford,East/North,645,West/South,420,1065,33.5
+2018-Oct,Studley Street,Hoddle Street,Park Street,Abbotsford,East/North,9,West/South,617,626,37.1
+2018-Oct,Vere Street,Hoddle Street,Park Street,Abbotsford,East/North,5,West/South,894,899,31.1
+2017-Oct,Fitzroy Street,Leicester Street,Rose Street,Fitzroy,East/North,8,West/South,342,350,28.8
+2017-Oct,Walnut Street,Balmain Street,Gordon Street,Richmond,East/North,107,West/South,79,186,22.7
+2017-Oct,Westbank Terrace,Campbell Street,Park Street,Richmond,East/North,1607,West/South,1774,3381,37
+2016-Oct,Abbotsford Street,Hunter Street,Paterson Street,Abbotsford,East/North,937,West/South,468,1405,40.7
+2016-Oct,Brighton Street,Prince Patrick Street,Yarra Street,Richmond,East/North,1314,West/South,827,2141,40.9
+2016-Oct,Clarke Street,Johnston Street,St Heliers Street,Abbotsford,East/North,1061,West/South,1248,2309,32.4
+2016-Oct,Cotter Street,Brighton Street,Church Street,Richmond,East/North,837,West/South,1077,1914,33.8
+2016-Oct,Delbridge Street,McKean Street,Rowe Street,Fitzroy North,East/North,1550,West/South,1220,2770,40.3
+2016-Oct,Fenwick Street,O'Grady Street,Spensley Street,Clifton Hill,East/North,2622,West/South,1072,3694,38.2
+2016-Oct,Field Street,Louise Street,William Street,Clifton Hill,East/North,286,West/South,1242,1528,42.1
+2016-Oct,George Street,Argyle Street,Johnston Street,Fitzroy,East/North,544,West/South,769,1313,39.3
+2016-Oct,Gold Street,Hotham Street,Keele Street,Collingwood,East/North,571,West/South,807,1378,34.7
+2016-Oct,Gold Street,Easey Street,Sackville Street,Collingwood,East/North,949,West/South,906,1855,39.4
+2016-Oct,Gore Street,Argyle Street,Johnston Street,Fitzroy,East/North,713,West/South,681,1394,40.3
+2016-Oct,Howard Street,Brighton Street,Church Street,Richmond,East/North,854,West/South,889,1743,36.7
+2016-Oct,Keele Street,Gold Street,Hoddle Street,Collingwood,East/North,484,West/South,202,686,41.2
+2016-Oct,Langridge Street,Charles Street,Park Street,Abbotsford,East/North,3071,West/South,3776,6847,42.5
+2016-Oct,Leicester Street,Gore Street,Smith Street,Fitzroy,East/North,566,West/South,18,584,40.8
+2016-Oct,Lulie Street,Johnston Street,Turner Street,Abbotsford,East/North,1248,West/South,1413,2661,42.8
+2016-Oct,Mary Street,James Street,Madden Grove,Richmond,East/North,3048,West/South,2377,5425,36.7
+2016-Oct,Mater Street,Blanche Street,Budd Street,Collingwood,East/North,603,West/South,662,1265,41.2
+2016-Oct,Michael Street,Falconer Street,Rowe Street,Fitzroy North,East/North,3412,West/South,3149,6561,46.8
+2016-Oct,Myrtle Street,Ramsden Street,Roseneath Street,Clifton Hill,East/North,3,West/South,1241,1244,41.8
+2016-Oct,Park Street,Bennett Street,Kneen Street,Fitzroy North,East/North,2763,West/South,2537,5300,42.8
+2016-Oct,Roseneath Street,Field Street,Gray Street,Clifton Hill,East/North,437,West/South,1300,1737,43.2
+2016-Oct,Sackville Street,Gold Street,Hoddle Street,Collingwood,East/North,778,West/South,289,1067,40.9
+2016-Oct,Sackville Street,Budd Street,Smith Street,Collingwood,East/North,554,West/South,534,1088,37.1
+2016-Oct,Stawell Street,Manton Street,Swan Street,Richmond,East/North,634,West/South,749,1383,37.6
+2016-Oct,Stawell Street,Manton Street,Stillman Street,Richmond,East/North,761,West/South,717,1478,38.9
+2016-Oct,Tudor Street,Bridge Road,Vesper Street,Richmond,East/North,536,West/South,289,825,38.1
+2016-Oct,Turner Street,Bath Street,Trenerry Crescent,Abbotsford,East/North,706,West/South,783,1489,49
+2016-Oct,Wellington Street,Alexandra Parade,Mater Street,Collingwood,East/North,5354,West/South,6408,11762,42.8
+2016-Oct,Westbank Terrace,Campbell Street,Park Street,Richmond,East/North,1607,West/South,1774,3381,37
+2016-Oct,Westgarth Street,Gore Street,Smith Street,Fitzroy,East/North,1091,West/South,500,1591,38.9
+2016-Oct,Westgarth Street,Napier Street,Young Street,Fitzroy,East/North,1414,West/South,1140,2554,35.6
+2015-Oct,Balmain Street,Cremorne Street,Cubitt Street,Richmond,East/North,2366,West/South,3372,5738,38.5
+2015-Oct,Corsair Street,Fraser Street,Hunter Street,Richmond,East/North,539,West/South,15,554,27.4
+2015-Oct,Cremorne Street,Blanche Street,Jessie Street,Richmond,East/North,2809,West/South,2798,5607,41.4
+2015-Oct,Dunn Street,Green Street,White Street,Richmond,East/North,549,West/South,593,1142,29.2
+2015-Oct,Gold Street,Noone Street,Page Street,Clifton Hill,East/North,1262,West/South,1357,2619,38.2
+2015-Oct,Highett Street,Burnley Street,Davison Street,Richmond,East/North,4039,West/South,5383,9422,41.8
+2015-Oct,Hodgkinson Street,Gold Street,Turnbull Street,Clifton Hill,East/North,733,West/South,468,1201,39.6
+2015-Oct,Johnson Street,Baker Street,Lincoln Street,Richmond,East/North,356,West/South,981,1337,43.9
+2015-Oct,Khartoum Street,Bendigo Street,Stawell Street,Richmond,East/North,87,West/South,241,328,42.1
+2015-Oct,Stephenson Street,Cubitt Street,Gwynne Street,Richmond,East/North,835,West/South,803,1638,35.3
+2015-Oct,Turnbull Street,Hodgkinson Street,North Terrace,Clifton Hill,East/North,476,West/South,516,992,35.3
+2015-Oct,Type Street,Bridge Road,Stillman Street,Richmond,East/North,315,West/South,319,634,34.6
+2015-Oct,View Street,Lucerne Crescent,Yarra Street,Alphington,East/North,425,West/South,248,673,42.8
+2014-Oct,Alfred Crescent,Falconer Street,Rowe Street,Fitzroy North,East/North,1215,West/South,1165,2380,39.6
+2014-Oct,Alfred Street,Derby Street,Loughnan Street,Richmond,East/North,11,West/South,193,204,32.8
+2014-Oct,Amsterdam Street,Brighton Street,Church Street,Richmond,East/North,698,West/South,646,1344,36.7
+2014-Oct,Balmain Street,Cremorne Street,Cubitt Street,Richmond,East/North,1913,West/South,3366,5279,40
+2014-Oct,Balmain Street,Chestnut Street,Church Street,Richmond,East/North,2364,West/South,3384,5748,33.5
+2014-Oct,Balmain Street,Green Street,Gwynne Street,Richmond,East/North,2429,West/South,4132,6561,34.2
+2014-Oct,Carroll Street,Gipps Street,Richmond Terrace,Richmond,East/North,53,West/South,60,113,35.3
+2014-Oct,Chapel Street,Chestnut Street,Green Street,Richmond,East/North,373,West/South,539,912,29.9
+2014-Oct,Chestnut Street,Adelaide Street,Chapel Street,Richmond,East/North,10,West/South,687,697,29.9
+2014-Oct,Clifton Street,Gipps Street,Richmond Terrace,Richmond,East/North,171,West/South,226,397,43.2
+2014-Oct,Cotter Street,Brighton Street,Church Street,Richmond,East/North,812,West/South,1159,1971,34.2
+2014-Oct,Cremorne Street,Balmain Street,Bent Street,Richmond,East/North,429,West/South,1685,2114,44.3
+2014-Oct,Cremorne Street,Gough Street,Kelso Street,Richmond,East/North,2605,West/South,2262,4867,43.6
+2014-Oct,Cremorne Street,Stephenson Street,Swan Street,Richmond,East/North,3876,West/South,3427,7303,34.2
+2014-Oct,Cubitt Street,Kelso Street,Stephenson Street,Richmond,East/North,717,West/South,14,731,40.3
+2014-Oct,Dando Street,Gipps Street,Richmond Terrace,Richmond,East/North,34,West/South,39,73,38.9
+2014-Oct,Dover Street,Fitzgibbon Street,Kelso Street,Richmond,East/North,17,West/South,662,679,38.9
+2014-Oct,Drummond Street,Park Street,Pigdon Street,Carlton North,East/North,421,West/South,527,948,52.2
+2014-Oct,Drummond Street,Pigdon Street,Richardson Street,Carlton North,East/North,549,West/South,716,1265,50.8
+2014-Oct,Fitzroy Street,Cecil Street,Westgarth Street,Fitzroy,East/North,129,West/South,20,149,28.1
+2014-Oct,George Street,Cecil Street,Westgarth Street,Fitzroy,East/North,276,West/South,115,391,24.1
+2014-Oct,George Street,Kerr Street,Rose Street,Fitzroy,East/North,591,West/South,421,1012,37.8
+2014-Oct,Gordon Street,Church Street,Walnut Street,Richmond,East/North,9,West/South,415,424,31.3
+2014-Oct,Gwynne Street,Kelso Street,Stephenson Street,Richmond,East/North,14,West/South,559,573,37.4
+2014-Oct,Gwynne Street,Balmain Street,Munro Street,Richmond,East/North,295,West/South,288,583,36
+2014-Oct,Lennox Street,Gipps Street,Richmond Terrace,Richmond,East/North,2868,West/South,3256,6124,36.4
+2014-Oct,Lennox Street,Gipps Street,Richmond Terrace,Richmond,East/North,2854,West/South,3294,6148,36.4
+2014-Oct,MacPherson Street,McIlwraith Street,Wilson Street,Carlton North,East/North,1227,West/South,807,2034,50
+2014-Oct,Mary Street,Barkly Avenue,Burgess Street,Richmond,East/North,1292,West/South,1411,2703,23.4
+2014-Oct,McIlwraith Street,Paterson Street,Richardson Street,Carlton North,East/North,293,West/South,266,559,42.8
+2014-Oct,Pigdon Street,McIlwraith Street,Wilson Street,Carlton North,East/North,3604,West/South,2863,6467,44.3
+2014-Oct,Ramsden Street,Fenwick Street,Field Street,Clifton Hill,East/North,1194,West/South,1197,2391,40.3
+2014-Oct,Richmond Terrace,Carroll Street,Lennox Street,Richmond,East/North,561,West/South,580,1141,38.2
+2014-Oct,Richmond Terrace,Carroll Street,Lennox Street,Richmond,East/North,576,West/South,577,1153,38.5
+2014-Oct,Rowena Parade,Grattan Place,Miller Street,Richmond,East/North,904,West/South,1087,1991,35.6
+2014-Oct,Stanley Street,Gipps Street,Richmond Terrace,Richmond,East/North,201,West/South,190,391,36
+2014-Oct,Stephenson Street,Dunn Street,Kelso Street,Richmond,East/North,699,West/South,24,723,38.9
+2014-Oct,Stephenson Street,Cubitt Street,Gwynne Street,Richmond,East/North,766,West/South,691,1457,28.1
+2014-Oct,The Vaucluse,Church Street,Rowena Parade,Richmond,East/North,225,West/South,337,562,30.2
+2014-Oct,Walnut Street,Balmain Street,Gordon Street,Richmond,East/North,100,West/South,63,163,24.1
+2014-Oct,Waverley Street,Gipps Street,Richmond Terrace,Richmond,East/North,196,West/South,154,350,39.6
+2014-Oct,Waverley Street,Gipps Street,Richmond Terrace,Richmond,East/North,198,West/South,155,353,39.2
+2014-Oct,Wellington Street,Blanche Street,Rout Street,Richmond,East/North,272,West/South,228,500,40.3
+2014-Oct,Young Street,Kerr Street,Rose Street,Fitzroy,East/North,731,West/South,23,754,27.4
+2013-Oct,Argyle Street,Gore Street,Smith Street,Fitzroy,East/North,418,West/South,28,446,33.5
+2013-Oct,Bedford Street,Perry Street,Johnston Street,Collingwood,East/North,346,West/South,19,365,29.9
+2013-Oct,Budd Street,Alexandra Parade,Mater Street,Collingwood,East/North,184,West/South,61,245,41
+2013-Oct,Cambridge Street,Peel Street,Stanley Street,Collingwood,East/North,671,West/South,604,1275,45.4
+2013-Oct,Cambridge Street,Langridge Street,Peel Street,Collingwood,East/North,846,West/South,628,1474,42.8
+2013-Oct,Charlotte Street,Alexandra Parade,Mater Street,Collingwood,East/North,93,West/South,59,152,36
+2013-Oct,Cromwell Street,Gipps Street,McCutcheon Way,Collingwood,East/North,642,West/South,25,667,36.7
+2013-Oct,Cromwell Street,Gipps Street,Langridge Street,Collingwood,East/North,879,West/South,9,888,39.2
+2013-Oct,Derby Street,Cambridge Street,Oxford Street,Collingwood,East/North,510,West/South,1093,1603,44.3
+2013-Oct,Easey Street,Budd Street,Smith Street,Collingwood,East/North,616,West/South,528,1144,36
+2013-Oct,George Street,Argyle Street,Johnston Street,Fitzroy,East/North,982,West/South,736,1718,42.5
+2013-Oct,Gipps Street,Rokeby Street,Wellington Street,Collingwood,East/North,2994,West/South,3649,6643,38.9
+2013-Oct,Gipps Street,Cromwell Street,Islington Street,Collingwood,East/North,3453,West/South,3820,7273,39.6
+2013-Oct,Gold Street,North Terrace,South Terrace,Clifton Hill,East/North,1932,West/South,2242,4174,37.8
+2013-Oct,Gore Street,Greeves Street,St David Street,Fitzroy,East/North,1005,West/South,283,1288,40
+2013-Oct,Gore Street,Argyle Street,Johnston Street,Fitzroy,East/North,1030,West/South,764,1794,42.1
+2013-Oct,Hotham Street,Budd Street,Smith Street,Collingwood,East/North,382,West/South,411,793,38.9
+2013-Oct,Islington Street,Gipps Street,Langridge Street,Collingwood,East/North,540,West/South,13,553,40.7
+2013-Oct,Keele Street,Budd Street,Smith Street,Collingwood,East/North,442,West/South,364,806,35.6
+2013-Oct,Kerr Street,Fitzroy Street,Spring Street,Fitzroy,East/North,1158,West/South,575,1733,35.3
+2013-Oct,Kerr Street,Gore Street,Smith Street,Fitzroy,East/North,1426,West/South,1137,2563,37.4
+2013-Oct,Lee Street,Drummond Street,Rathdowne Street,Carlton North,East/North,231,West/South,422,653,39.2
+2013-Oct,Lee Street,Canning Street,Station Street,Carlton North,East/North,314,West/South,605,919,35.3
+2013-Oct,Leicester Street,Gore Street,Smith Street,Fitzroy,East/North,533,West/South,260,793,40.7
+2013-Oct,Little George Street,Gertrude Street,Webb Street,Fitzroy,East/North,87,West/South,7,94,23.8
+2013-Oct,Little Oxford Street,Peel Street,Stanley Street,Collingwood,East/North,424,West/South,10,434,36
+2013-Oct,Mater Street,Blanche Street,Budd Street,Collingwood,East/North,580,West/South,746,1326,49.7
+2013-Oct,Oxford Street,Langridge Street,Peel Street,Collingwood,East/North,480,West/South,657,1137,42.8
+2013-Oct,Perry Street,Harmsworth Street,Hoddle Street,Collingwood,East/North,157,West/South,198,355,29.5
+2013-Oct,Perry Street,Bedford Street,Wellington Street,Collingwood,East/North,478,West/South,11,489,36.7
+2013-Oct,Perry Street,Harmsworth Street,Wellington Street,Collingwood,East/North,610,West/South,510,1120,36.7
+2013-Oct,Rathdowne Street,MacPherson Street,Richardson Street,Carlton North,East/North,6405,West/South,5577,11982,48.6
+2013-Oct,Rathdowne Street,Newry Street,Ogrady Street,Carlton North,East/North,7481,West/South,6097,13578,44.6
+2013-Oct,Rokeby Street,Gipps Street,Langridge Street,Collingwood,East/North,23,West/South,779,802,26.6
+2013-Oct,Rokeby Street,Langridge Street,Victoria Street,Collingwood,East/North,28,West/South,834,862,28.8
+2013-Oct,Rose Street,Gore Street,Smith Street,Fitzroy,East/North,16,West/South,556,572,35.6
+2013-Oct,Rupert Street,Gipps Street,McCutcheon Way,Collingwood,East/North,15,West/South,336,351,33.1
+2013-Oct,Rupert Street,Gipps Street,Langridge Street,Collingwood,East/North,9,West/South,766,775,33.8
+2013-Oct,Sackville Street,Gold Street,Hoddle Street,Collingwood,East/North,701,West/South,304,1005,41.4
+2013-Oct,Sackville Street,Budd Street,Smith Street,Collingwood,East/North,543,West/South,534,1077,43.9
+2013-Oct,Stafford Street,Hoddle Street,Park Street,Abbotsford,East/North,273,West/South,42,315,31.7
+2013-Oct,Stanley Street,Cambridge Street,Oxford Street,Collingwood,East/North,1494,West/South,1183,2677,34.2
+2013-Oct,Vere Street,Campbell Street,Wellington Street,Collingwood,East/North,905,West/South,681,1586,33.5
+2013-Oct,Wellington Street,Council Street,Page Street,Collingwood ,East/North,3158,West/South,3020,6178,41
+2013-Oct,Wellington Street,Hotham Street,Keele Street,Collingwood ,East/North,5422,West/South,5970,11392,45.4
+2013-Oct,Westgarth Street,Fitzroy Street,Nicholson Street,Fitzroy,East/North,473,West/South,501,974,40
+2013-Oct,Westgarth Street,George Street,Napier Street,Fitzroy,East/North,1248,West/South,1220,2468,33.8
+2013-Oct,Westgarth Street,Gore Street,Smith Street,Fitzroy,East/North,1397,West/South,1092,2489,41
+2012-Oct,Blanche Street,Cremorne Street,Wellington Street,Richmond,East/North,144,West/South,15,159,28.8
+2012-Oct,North Terrace,Hoddle Street,Gold Street,Clifton Hill,East/North,850,West/South,655,1505,43.6
+2012-Oct,Rae Street,Newry Street,York Street,Fitzroy North,East/North,291,West/South,1095,1386,37.4
+2012-Oct,Westbank Terrace,Campbell Street,Park Avenue,Richmond ,East/North,1455,West/South,1500,2955,46.1
+2011-Oct,Mary Street,Barkly Avenue,Burgess Street,Richmond,East/North,1389,West/South,1526,2915,25.2
+2011-Oct,Post Office Lane,off Victoria Street,,Richmond,East/North,67,West/South,84,151,15.1
+2011-Oct,Stanley Street,Gipps Street,Swan Street,Richmond,East/North,495,West/South,411,906,47.5
+2011-Oct,Tanner Street,Botherambo Street,Wangaratta Street,Richmond,East/North,845,West/South,442,1287,37.1
+2011-Oct,Tanner Street,Botherambo Street,Wangaratta Street,Richmond,East/North,845,West/South,442,1287,37.1
+2010-Oct,Cambridge Street,Derby Street,Mason Street,Collingwood,East/North,1084,West/South,594,1678,41.8
+2010-Oct,Cambridge Street,Derby Street,Mason Street,Collingwood,East/North,1084,West/South,594,1678,41.8
+2010-Oct,Council Street,Hilton Street,Reeves Street,Clifton Hill,East/North,294,West/South,398,692,47.2
+2010-Oct,Derby Street,Cambridge Street,Oxford Street,Collingwood,East/North,502,West/South,1039,1541,48.2
+2010-Oct,Derby Street,Cambridge Street,Oxford Street,Collingwood,East/North,502,West/South,1039,1541,47.2
+2010-Oct,Egan Place,Egan Street,Highett Street,Richmond,East/North,1130,West/South,5,1135,34.9
+2010-Oct,Egan Place,Egan Street,Highett Street,Richmond,East/North,1130,West/South,5,1135,34.9
+2010-Oct,Farmer Street,Burnley Street,Cutter Street,Richmond,East/North,10,West/South,480,490,35.3
+2010-Oct,Farmer Street,Burnley Street,Cutter Street,Richmond,East/North,10,West/South,480,490,35.3
+2010-Oct,Gold Street,Noone Street,Page Street,Clifton Hill,East/North,824,West/South,1433,2257,38.9
+2010-Oct,Gold Street,North Terrace,South Terrace,Clifton Hill,East/North,1866,West/South,2098,3964,40
+2010-Oct,Hodgkinson Street,Hilton Street,Smith Street,Clifton Hill,East/North,357,West/South,446,803,37.4
+2010-Oct,Holden Street,Nicholson Street,St Georges Road,Fitzroy North,East/North,6827,West/South,7420,14247,54.7
+2010-Oct,Lane number 30,Alexandra Parade,Noone Street,Clifton Hill,East/North,5,West/South,105,110,23
+2010-Oct,Lane number 49.1,Alexandra Parade,Council Street,Clifton Hill,East/North,51,West/South,33,84,18.4
+2010-Oct,Little Buckingham Street,Church Street,Lambert Street,Richmond,East/North,41,West/South,45,86,31
+2010-Oct,Masons Lane,Johnston Street,Valiant Street,Abbotsford,East/North,5,West/South,94,99,18.4
+2010-Oct,Masons Lane,Johnston Street,Valiant Street,Abbotsford,East/North,5,West/South,94,99,18.4
+2010-Oct,Noone Street,Gold Street,Wellington Street,Clifton Hill,East/North,465,West/South,1303,1768,35.6
+2010-Oct,Noone Street,Gold Street,Wellington Street,Clifton Hill,East/North,465,West/South,1303,1768,35.6
+2010-Oct,Reeves Street,Alexandra Parade,Council Street,Clifton Hill,East/North,154,West/South,217,371,43.6
+2010-Oct,Rose Street,Brighton Street,Mary Street,Richmond,East/North,837,West/South,2,839,36.7
+2010-Oct,Rose Street,Brighton Street,Mary Street,Richmond,East/North,837,West/South,2,839,36.7
+2010-Oct,The Esplanade,Heidelberg Road,Spensley Street,Clifton Hill,East/North,678,West/South,640,1318,53.3
+2010-Oct,The Esplanade,Heidelberg Road,Spensley Street,Clifton Hill,East/North,678,West/South,640,1318,53.3
+2010-Oct,Turnbull Street,Hodgkinson Street,North Terrace,Clifton Hill,East/North,338,West/South,288,626,45.4
+2010-Oct,Wellington Street,Langridge Street,Peel Street,Collingwood,East/North,5745,West/South,7104,12849,51.1
+2010-Oct,Wellington Street,Singleton Street,Vere Street,Collingwood,East/North,7392,West/South,8081,15473,52.2
+2009-Oct,Buckingham Street,Burnley Street,Davison Street,Richmond,East/North,1395,West/South,1466,2861,39.6
+2009-Oct,Highett Street,Freeman Street,Lennox Street,Richmond,East/North,2210,West/South,3261,5471,43.9
+2009-Oct,Holden Street,Bennett Street,St Georges Road,Fitzroy North,East/North,2587,West/South,2838,5425,44.3
+2009-Oct,Langridge Street,Charles Street,Park Street,Abbotsford,East/North,3081,West/South,3534,6615,47.2
+2009-Oct,Little Hoddle Street,Elizabeth Street,Victoria Street,Richmond,East/North,34,West/South,121,155,25.6
+2009-Oct,Little Oxford Street,Langridge Street,Peel Street,Collingwood,East/North,306,West/South,10,316,37.8
+2009-Oct,Michael Street,McKean Street,Rowe Street,Fitzroy North,East/North,3194,West/South,3624,6818,49.7
+2009-Oct,Nicholson Street,Langridge Street,Victoria Street,Abbotsford,East/North,2481,West/South,2754,5235,45.7
+2009-Oct,Nicholson Street,Gipps Street,Langridge Street,Abbotsford,East/North,3595,West/South,3563,7158,43.2
+2009-Oct,Ramsden Street,Hoddle Street,John Street,Clifton Hill,East/North,1318,West/South,1124,2442,30.6
+2009-Oct,Reid Street,Brunswick Street,Rae Street,Fitzroy North,East/North,2114,West/South,2602,4716,42.5
+2009-Oct,Rushall Crescent,McKean Street,Queens Parade,Fitzroy North,East/North,2996,West/South,2729,5725,37.8
+2009-Oct,Scotchmer Street,Fergie Street,Mark Street,Fitzroy North,East/North,3630,West/South,3189,6819,46.4
+2009-Oct,Scotchmer Street,Best Street,Birkenhead Street,Fitzroy North,East/North,4421,West/South,4347,8768,44.3
+2009-Oct,Trenerry Crescent,Eastern Freeway overpass,Grey Street,Clifton Hill,East/North,3934,West/South,2386,6320,52.6
+2018-Nov,Miller Street,Ida Street,King Street,Fitzroy North,East/North,1812,West/South,1652,3464,40
+2017-Nov,Abbotsford Street,Hunter Street,Paterson Street,Abbotsford,East/North,925,West/South,457,1382,39.6
+2017-Nov,Alfred Street,Batman Street,Rae Street,Fitzroy North,East/North,0,West/South,149,149,25.2
+2017-Nov,Amess Street,Park Street,Pigdon Street,Carlton North,East/North,514,West/South,539,1053,47.4
+2017-Nov,Balmain Street,Cubitt Street,Dover Street,Richmond,East/North,2347,West/South,3360,5707,38.7
+2017-Nov,Bendigo Street,Khartoum Street,Moore Street,Richmond,East/North,1895,West/South,2052,3947,37.3
+2017-Nov,Birkenhead Street,Park Street,Scotchmer Street,Fitzroy North,East/North,515,West/South,501,1016,38.2
+2017-Nov,Boland Street,Burnley Street,Type Street,Richmond,East/North,293,West/South,177,470,39.5
+2017-Nov,Bowen Crescent,Holtom Street West,Pigdon Street,Carlton North,East/North,3721,West/South,4613,8334,31.3
+2017-Nov,Brunswick Street North,Reid Street,Scotchmer Street,Fitzroy North,East/North,1132,West/South,773,1905,40.3
+2017-Nov,Brunswick Street North,Park Street,Holden Street,Fitzroy North,East/North,1182,West/South,1522,2704,35.8
+2017-Nov,Brunswick Street North,Park Street,Scotchmer Street,Fitzroy North,East/North,1203,West/South,1526,2729,36.8
+2017-Nov,Charles Street,Gipps Street,Vere Street,Abbotsford,East/North,219,West/South,263,482,41
+2017-Nov,Charles Street,Gipps Street,Langridge Street,Abbotsford,East/North,308,West/South,367,675,43.6
+2017-Nov,Church Street,Nicholson Street,St Georges Road,Fitzroy North,East/North,433,West/South,283,716,34.1
+2017-Nov,Clarke Street,Abbotsford Street,St Heliers Street,Abbotsford,East/North,624,West/South,147,771,28.1
+2017-Nov,Clarke Street,Johnston Street,St Heliers Street,Abbotsford,East/North,1299,West/South,1163,2462,33.1
+2017-Nov,Clauscen Street,Nicholson Street,Rae Street,Fitzroy North,East/North,348,West/South,280,628,36.7
+2017-Nov,Clauscen Street,Melville Street,Rae Street,Fitzroy North,East/North,286,West/South,390,676,37.6
+2017-Nov,Cutter Street,Bliss Street,Farmer Street,Richmond,East/North,317,West/South,7,324,31.6
+2017-Nov,Dickens Street,Burnley Street,Type Street,Richmond,East/North,125,West/South,3,128,29
+2017-Nov,Farmer Street,Burnley Street,Cutter Street,Richmond,East/North,3,West/South,373,376,30.5
+2017-Nov,Flockhart Street,Shamrock Street,Victoria Street,Abbotsford,East/North,1250,West/South,1490,2740,36.8
+2017-Nov,Freeman Street,Bowen Street,Muir Street,Richmond,East/North,3,West/South,170,173,33.03
+2017-Nov,Freeman Street,Rae Street,St Georges Road,Fitzroy North,East/North,750,West/South,322,1072,36.7
+2017-Nov,Freeman Street,Nicholson Street,St Georges Road,Fitzroy North,East/North,842,West/South,243,1085,45.8
+2017-Nov,Holden Street,Dean Street,Porter Street,Fitzroy North,East/North,7345,West/South,7257,14602,50.9
+2017-Nov,Ida Street,May Street,Miller Street,Fitzroy North,East/North,523,West/South,453,976,28.5
+2017-Nov,Langridge Street,Charles Street,Park Street,Abbotsford,East/North,2935,West/South,4066,7001,41.6
+2017-Nov,Lithgow Street,Mollison Street,Victoria Street,Abbotsford,East/North,487,West/South,167,654,37.8
+2017-Nov,Liverpool Street,Nicholson Street,Rae Street,Fitzroy North,East/North,259,West/South,114,373,36.4
+2017-Nov,Marine Parade,Nicholson Street,Hunter Street,Abbotsford,East/North,880,West/South,692,1572,36.7
+2017-Nov,Miller Street,Taylor Street,White Street,Fitzroy North,East/North,1601,West/South,1256,2857,39
+2017-Nov,Murray Street,Church Street,Mayfield Street,Abbotsford,East/North,6746,West/South,6535,13281,33.8
+2017-Nov,Nelson Street,Church Street,Fairchild Street,Abbotsford,East/North,2365,West/South,2629,4994,45.5
+2017-Nov,Newry Street,Rae Street,St Georges Road,Fitzroy North,East/North,622,West/South,431,1053,35.3
+2017-Nov,Nicholson Street,Gipps Street,Mollison Street,Abbotsford,East/North,3042,West/South,3061,6103,37.6
+2017-Nov,Nicholson Street,Studley Street,Yarra Street,Abbotsford,East/North,7076,West/South,5571,12647,38.5
+2017-Nov,Nicholson Street,Gipps Street,Harper Street,Abbotsford,East/North,6040,West/South,6702,12742,41.1
+2017-Nov,Park Street,Birkenhead Street,Brunswick Street North,Fitzroy North,East/North,239,West/South,0,239,32.1
+2017-Nov,Park Street,Nicholson Street,Rae Street,Fitzroy North,East/North,0,West/South,611,611,42.9
+2017-Nov,Park Street,Greenwood Street,Victoria Street,Abbotsford,East/North,17,West/South,872,889,39.2
+2017-Nov,Park Street,Johnston Street,Stafford Street,Abbotsford,East/North,579,West/South,469,1048,33.1
+2017-Nov,Park Street,Studley Street,Yarra Street,Abbotsford,East/North,629,West/South,473,1102,28.1
+2017-Nov,Rae Street,Holden Street,Park Street,Fitzroy North,East/North,336,West/South,301,637,30.4
+2017-Nov,Rae Street,Freeman Street,St Georges Road,Fitzroy North,East/North,240,West/South,676,916,32
+2017-Nov,Rae Street,Park Street,Scotchmer Street,Fitzroy North,East/North,515,West/South,501,1016,38.2
+2017-Nov,Rae Street,Reid Street,Scotchmer Street,Fitzroy North,East/North,505,West/South,813,1318,41.2
+2017-Nov,Rae Street,Freeman Street,Newry Street,Fitzroy North,East/North,196,West/South,1129,1325,31
+2017-Nov,Rae Street,Barkly Street,Holden Street,Fitzroy North,East/North,232,West/South,1432,1664,38.4
+2017-Nov,Rae Street,Newry Street,York Street,Fitzroy North,East/North,261,West/South,1463,1724,35.5
+2017-Nov,Rae Street,Alexandra Parade,York Street,Fitzroy North,East/North,237,West/South,1506,1743,40.4
+2017-Nov,Rae Street,Barkly Street,Clauscen Street,Fitzroy North,East/North,1010,West/South,1470,2480,38.8
+2017-Nov,Reid Street,Brunswick Street North,Rae Street,Fitzroy North,East/North,1759,West/South,2865,4624,44
+2017-Nov,Reid Street,Nicholson Street,Rae Street,Fitzroy North,East/North,2374,West/South,2831,5205,42
+2017-Nov,Richardson Street,Drummond Street,Rathdowne Street,Carlton North,East/North,1036,West/South,1100,2136,32.8
+2017-Nov,Scotchmer Street,Nicholson Street,Rae Street,Fitzroy North,East/North,2815,West/South,3137,5952,41.1
+2017-Nov,Scotchmer Street,Birkenhead Street,Brunswick Street North,Fitzroy North,East/North,4158,West/South,3746,7904,39
+2017-Nov,South Hampton Crescent,Duke Street,Grosvenor Street,Abbotsford,East/North,831,West/South,765,1596,28.2
+2017-Nov,Southampton Crescent,Duke Street,Grosvenor Street,Abbotsford,East/North,831,West/South,765,1596,28.2
+2017-Nov,St Georges Road,Freeman Street,Newry Street,Fitzroy North,East/North,234,West/South,414,648,44.1
+2017-Nov,St Heliers Street,Clarke Street,Yarra River,Abbotsford,East/North,982,West/South,1016,1998,26.6
+2017-Nov,St Phillips Street,Gipps Street,Vere Street,Abbotsford,East/North,98,West/South,106,204,34.2
+2017-Nov,Stafford Street,Hoddle Street,Park Street,Abbotsford,East/North,275,West/South,9,284,33.8
+2017-Nov,Stawell Street,Khartoum Street,Swan Street,Richmond,East/North,592,West/South,993,1585,37.3
+2017-Nov,Stawell Street,Glasshouse Street,Stillman Street,Richmond,East/North,798,West/South,867,1665,36
+2017-Nov,Stillman Street,Burnley Street,Type Street,Richmond,East/North,202,West/South,289,491,37.8
+2017-Nov,Studley Street,Hoddle Street,Park Street,Abbotsford,East/North,12,West/South,532,544,36.4
+2017-Nov,Taplin Street,Park Street,St Georges Road,Fitzroy North,East/North,132,West/South,63,195,37.7
+2017-Nov,Taylor Street,Glenlyon Road,Miller Street,Fitzroy North,East/North,247,West/South,237,484,47.8
+2017-Nov,Tudor Street,Bridge Road,Longfield Street,Richmond,East/North,521,West/South,311,832,39.1
+2017-Nov,Type Street,Dickens Street,Stillman Street,Richmond,East/North,332,West/South,375,707,33.7
+2017-Nov,Vere Street,Charles Street,St Phillips Street,Abbotsford,East/North,105,West/South,784,889,31.3
+2017-Nov,Vere Street,Hoddle Street,Park Street,Abbotsford,East/North,6,West/South,973,979,33.5
+2017-Nov,Westbank Terrace,Campbell Street,Park Avenue,Richmond,East/North,1655,West/South,1963,3618,45.6
+2017-Nov,White Street,Glenlyon Road,Pleasance Street,Fitzroy North,East/North,881,West/South,679,1560,45.1
+2017-Nov,Yarra Boulevard,Bridge Road,Park Avenue,Richmond,East/North,3395,West/South,4982,8377,47.8
+2017-Nov,Yarra Boulevard,Bridge Road,Park Avenue,Richmond,East/North,3559,West/South,4975,8534,49.4
+2017-Nov,Yarra Street,Hoddle Street,Park Street,Abbotsford,East/North,475,West/South,4,479,34.2
+2017-Nov,York Street,Brunswick Street,Rae Street,Fitzroy North,East/North,306,West/South,467,773,36.5
+2017-Nov,York Street,Nicholson Street,Rae Street,Fitzroy North,East/North,518,West/South,385,903,34.9
+2016-Nov,Boland Street,Burnley Street,Type Street,Richmond,East/North,293,West/South,177,470,39.5
+2016-Nov,Brougham Street,Lyndhurst Street,Mary Street,Richmond,East/North,252,West/South,115,367,31.7
+2016-Nov,Brunswick Street North,Scotchmer Street,Tranmere Street,Fitzroy North,East/North,745,West/South,1088,1833,40.7
+2016-Nov,Brunswick Street North,Park Street,Scotchmer Street,Fitzroy North,East/North,929,West/South,1478,2407,40.3
+2016-Nov,Dickens Street,Burnley Street,Type Street,Richmond,East/North,125,West/South,3,128,29
+2016-Nov,Easey Street,Gold Street,Hoddle Street,Collingwood,East/North,401,West/South,285,686,42.6
+2016-Nov,Napier Street,Argyle Street,Johnston Street,Fitzroy,East/North,1627,West/South,1882,3509,36.7
+2016-Nov,Park Street,Amess Street,Canning Street,Carlton North,East/North,1723,West/South,2043,3766,41.4
+2016-Nov,Rae Street,Newry Street,York Street,Fitzroy North,East/North,302,West/South,1532,1834,35.6
+2016-Nov,Richardson Street,Drummond Street,Lygon Street,Carlton North,East/North,1103,West/South,981,2084,34.6
+2016-Nov,Richardson Street,Drummond Street,Rathdowne Street,Carlton North,East/North,1036,West/South,1100,2136,32.8
+2016-Nov,Wellington Street,Hotham Street,Keele Street,Collingwood,East/North,5688,West/South,6324,12012,42.1
+2015-Nov,Bendigo Street,Khartoum Street,Moore Street,Richmond,East/North,1939,West/South,1980,3919,44.6
+2015-Nov,Bendigo Street,Bellevue Street,Jago Street,Richmond,East/North,2156,West/South,2082,4238,41
+2015-Nov,Birkenhead Street,Park Street,Scotchmer Street,Fitzroy North,East/North,166,West/South,122,288,39.6
+2015-Nov,Birkenhead Street,Park Street,Scotchmer Street,Fitzroy North,East/North,225,West/South,195,420,37.8
+2015-Nov,Bowen Crescent,Holtom Street West,Lang Street,Carlton North,East/North,4362,West/South,4001,8363,36.7
+2015-Nov,Walnut Street,Balmain Street,Gordon Street,Richmond,East/North,92,West/South,51,143,22.7
+2015-Nov,Walnut Street,Balmain Street,Gordon Street,Richmond,East/North,111,West/South,70,181,22.3
+2014-Nov,Alexandra Parade East,Groom Street,Rutland Street,Clifton Hill,East/North,127,West/South,68,195,38.9
+2014-Nov,Clifton Street,Gipps Street,Swan Street,Richmond,East/North,413,West/South,543,956,41
+2014-Nov,Dally Street,Clifton Avenue,Kiewa Street,Clifton Hill,East/North,68,West/South,106,174,32.4
+2014-Nov,George Street,Argyle Street,Johnston Street,Fitzroy,East/North,972,West/South,823,1795,40
+2014-Nov,George Street,Moor Street,St David Street,Fitzroy,East/North,1006,West/South,888,1894,40.3
+2014-Nov,Gipps Street,Carroll Street,Lennox Street,Richmond,East/North,1140,West/South,2032,3172,38.5
+2014-Nov,Gipps Street,Church Street,Dickmann Street,Richmond,East/North,1630,West/South,1562,3192,36
+2014-Nov,Gore Street,Leicester Street,Rose Street,Fitzroy,East/North,925,West/South,747,1672,42.1
+2014-Nov,Gore Street,Argyle Street,Johnston Street,Fitzroy,East/North,1114,West/South,778,1892,41.4
+2014-Nov,Lennox Street,Gipps Street,Swan Street,Richmond,East/North,2086,West/South,3968,6054,40.3
+2014-Nov,Lennox Street,Bridge Road,Goodwood Street,Richmond,East/North,3134,West/South,4120,7254,35.6
+2014-Nov,Lennox Street,Richmond Terrace,Rowena Parade,Richmond,East/North,3428,West/South,4133,7561,33.8
+2014-Nov,Liverpool Street,Nicholson Street,Rae Street,Fitzroy North,East/North,483,West/South,329,812,36.7
+2014-Nov,Napier Street,Argyle Street,Johnston Street,Fitzroy,East/North,1059,West/South,1410,2469,37.1
+2014-Nov,Park Street,Nicholson Street,Rae Street,Fitzroy North,East/North,3,West/South,908,911,41
+2014-Nov,Rae Street,Liverpool Street,Scotchmer Street,Fitzroy North,East/North,1061,West/South,744,1805,41
+2014-Nov,Rae Street,Reid Street,Scotchmer Street,Fitzroy North,East/North,891,West/South,1502,2393,41.4
+2014-Nov,Reid Street,Brunswick Street,Rae Street,Fitzroy North,East/North,3199,West/South,3633,6832,41.8
+2014-Nov,Reid Street,Nicholson Street,Rae Street,Fitzroy North,East/North,4093,West/South,4004,8097,37.8
+2014-Nov,Rotherwood Street,Goodwood Street,The Crofts,Richmond,East/North,362,West/South,615,977,33.8
+2014-Nov,Rowena Parade,Lennox Street,The Vaucluse,Richmond,East/North,300,West/South,401,701,34.9
+2014-Nov,Rushall Crescent,McKean Street,Queens Parade,Fitzroy North,East/North,3306,West/South,2780,6086,41.8
+2014-Nov,Scotchmer Street,Brunswick Street,Rae Street,Fitzroy North,East/North,1045,West/South,1889,2934,37.4
+2014-Nov,Stanley Street,Gipps Street,Swan Street,Richmond,East/North,599,West/South,560,1159,40.7
+2014-Nov,Tanner Street,Botherambo Street,Wangaratta Street,Richmond,East/North,905,West/South,561,1466,35.6
+2014-Nov,Waltham Street,Bridge Road,Goodwood Street,Richmond,East/North,572,West/South,486,1058,34.9
+2014-Nov,Westgarth Street,Fitzroy Street,Nicholson Street,Fitzroy,East/North,416,West/South,420,836,39.6
+2014-Nov,Westgarth Street,Gore Street,Smith Street,Fitzroy,East/North,1380,West/South,1085,2465,38.9
+2014-Nov,White Street,Dunn Street,Railway Crescent,Richmond,East/North,122,West/South,12,134,25.2
+2013-Nov,Brunswick Street North,Reid Street,St Georges Road,Fitzroy North,East/North,1023,West/South,573,1596,41.8
+2013-Nov,Corsair Street,Fraser Street,Hunter Street,Richmond,East/North,668,West/South,20,688,25.9
+2013-Nov,Dorset Street,Wellington Street,ROW,Collingwood,East/North,70,West/South,6,76,20.2
+2013-Nov,Drummond Street,Curtain Street,Fenwick Street,Carlton North,East/North,376,West/South,1025,1401,46.8
+2013-Nov,Hodgkinson Street,Hilton Street,Smith Street,Clifton Hill,East/North,336,West/South,482,818,36.7
+2013-Nov,Lord Street,Corsair Street,Murray Street,Richmond,East/North,500,West/South,25,525,36.4
+2013-Nov,Otter Street,Bedford Street,Wellington Street,Collingwood,East/North,1033,West/South,1033,2066,37.8
+2013-Nov,Park Street,Stanton Street,Vere Street,Abbotsford,East/North,459,West/South,11,470,33.1
+2013-Nov,Taylor Street,Glenlyon Road,Miller Street,Fitzroy North,East/North,277,West/South,202,479,48.6
+2013-Nov,Vere Street,Park Street,Nicholson Street,Abbotsford,East/North,13,West/South,632,645,23.4
+2013-Nov,Vere Street,Hoddle Street,Park Street,Abbotsford,East/North,18,West/South,789,807,34.2
+2013-Nov,Yarra Street,Hoddle Street,Park Street,Abbotsford,East/North,464,West/South,12,476,37.4
+2013-Nov,Yarra Street,Nicholson Street,Park Street,Abbotsford,East/North,472,West/South,14,486,38.9
+2012-Nov,Clifton Avenue,Ramsden Street,Roseneath Street,Clifton Hill,East/North,10,West/South,757,767,44.3
+2012-Nov,Fenwick Street,O'Grady Street,Spensley Street,Clifton Hill,East/North,2831,West/South,1084,3915,38.2
+2012-Nov,Field Street,Ramsden Street,Roseneath Street,Clifton Hill,East/North,269,West/South,1025,1294,45.7
+2012-Nov,Freeman Street,Rae Street,St Georges Road,Fitzroy North,East/North,524,West/South,350,874,36.7
+2012-Nov,Freeman Street,Nicholson Street,St Georges Road,Fitzroy North,East/North,618,West/South,301,919,45.5
+2012-Nov,Gordon Street,Ramsden Street,Roseneath Street,Clifton Hill,East/North,960,West/South,9,969,39.6
+2012-Nov,Gray Street,Noone Street,Roseneath Street,Clifton Hill,East/North,2686,West/South,2292,4978,44.6
+2012-Nov,Little Oxford Street,Peel Street,Langridge Street,Collingwood ,East/North,307,West/South,26,333,35.3
+2012-Nov,Myrtle Street,Ramsden Street,Roseneath Street,Clifton Hill,East/North,5,West/South,1142,1147,43.2
+2012-Nov,North Terrace,Hoddle Street,Gold Street,Clifton Hill,East/North,932,West/South,774,1706,43.6
+2012-Nov,Roseneath Street,Gray Street,Field Street,Clifton Hill,East/North,387,West/South,1099,1486,42.8
+2012-Nov,Roseneath Street,Gray Street,Kiewa Street,Clifton Hill,East/North,2092,West/South,1398,3490,40.7
+2012-Nov,Yambla Street,Roseneath Street,Ramsden Street,Clifton Hill,East/North,1880,West/South,44,1924,33.8
+2012-Nov,Young Street,Alexandra Parade,Cecil Street,Fitzroy North,East/North,275,West/South,48,323,31.7
+2012-Nov,Young Street,Cecil Street,Westgarth Street,Fitzroy North,East/North,414,West/South,26,440,32.8
+2011-Nov,Abbott Street,Lulie Street,Trenerry Crescent,Abbotsford ,East/North,312,West/South,354,666,41.4
+2011-Nov,Berry Street,Church Street,Waltham Street,Richmond,East/North,8,West/South,78,86,34.2
+2011-Nov,Bromham Place,Risley Street,Tweedie Place,Richmond,East/North,9,West/South,529,538,33.8
+2011-Nov,Davison Street,Highett Street,Somerset Street,Richmond,East/North,1374,West/South,739,2113,37.4
+2011-Nov,Gold Street,Easey Street,Sackville Street,Collingwood ,East/North,1174,West/South,1036,2210,41.8
+2011-Nov,Lennox Street,Gipps Street,Richmond Terrace,Richmond,East/North,2970,West/South,3358,6328,38.9
+2011-Nov,Lennox Street,Gipps Street,Richmond Terrace,Richmond,East/North,2970,West/South,3358,6328,38.9
+2011-Nov,Lulie Street,Abbott Street,Turner Street,Alphington ,East/North,849,West/South,917,1766,49
+2011-Nov,Maugie Street,Lulie Street,Trenerry Crescent,Abbotsford ,East/North,432,West/South,490,922,46.8
+2011-Nov,Rae Street,Scotchmer Street,Reid Street,Fitzroy North,East/North,476,West/South,1031,1507,60.6
+2011-Nov,Rogers Street,Rowena Parade,Richmond Terrace,Richmond,East/North,0,West/South,62,62,26.3
+2011-Nov,Trenerry Crescent,Abbott Street,Turner Street,Abbotsford ,East/North,4024,West/South,2583,6607,41.8
+2011-Nov,Trenerry Crescent,Johnston Street,Turner Street,Abbotsford ,East/North,4155,West/South,2467,6622,35.3
+2011-Nov,Trenerry Crescent,The Bend,Noone Street,Clifton Hill,East/North,4336,West/South,2783,7119,50
+2011-Nov,Trenerry Crescent,East of Dights Fall car park,,Abbotsford ,East/North,4384,West/South,2762,7146,52.9
+2011-Nov,Turner Street,Bath Street,Lulie Street,Abbotsford ,East/North,316,West/South,354,670,46.8
+2011-Nov,Turner Street,Bath Street,Trenerry Crescent,Abbotsford ,East/North,443,West/South,769,1212,47.9
+2010-Nov,Austin Way,Best Street,Lane number 2090,Fitzroy North,East/North,18,West/South,18,36,22.7
+2010-Nov,Gore Street,Gertrude Street,Little Victoria Street,Fitzroy,East/North,668,West/South,464,1132,45.4
+2010-Nov,Gore Street,Gertrude Street,Little Victoria Street,Fitzroy,East/North,668,West/South,464,1132,45.4
+2010-Nov,Greeves Street,George Street,Gore Street,Fitzroy,East/North,529,West/South,27,556,34.9
+2010-Nov,Greeves Street,George Street,Gore Street,Fitzroy,East/North,529,West/South,27,556,34.9
+2010-Nov,Kerr Street,Fitzroy Street,Spring Street,Fitzroy,East/North,1209,West/South,553,1762,36
+2010-Nov,Kerr Street,Fitzroy Street,Spring Street,Fitzroy,East/North,1209,West/South,553,1762,36
+2010-Nov,Laity Street,Church Street,Lambert Street,Richmond,East/North,262,West/South,8,270,37.1
+2010-Nov,Laity Street,Church Street,Lambert Street,Richmond,East/North,262,West/South,8,270,37.1
+2010-Nov,Lane number 320.1,Johnston Street,Valiant Street,Abbotsford,East/North,17,West/South,3,20,22.7
+2010-Nov,Little Buckingham Street,Church Street,Lambert Street,Richmond,East/North,41,West/South,45,86,31
+2010-Nov,Little Oxford Street,Langridge Street,Peel Street,Collingwood,East/North,291,West/South,29,320,36
+2010-Nov,MacPherson Street,Arnold Street,Wilson Street,Carlton North,East/North,1398,West/South,605,2003,50.8
+2010-Nov,Masons Lane,Johnston Street,Valiant Street,Abbotsford,East/North,5,West/South,50,55,19.4
+2010-Nov,Masons Lane,Johnston Street,Valiant Street,Abbotsford,East/North,5,West/South,50,55,19.4
+2010-Nov,Pigdon Street,McIlwraith Street,Wilson Street,Carlton North,East/North,3539,West/South,2976,6515,42.1
+2010-Nov,Scotchmer Street,Mark Street,Woodhead Street,Fitzroy North,East/North,3343,West/South,3500,6843,50
+2010-Nov,Scotchmer Street,Mark Street,Woodhead Street,Fitzroy North,East/North,3343,West/South,3500,6843,50
+2010-Nov,Scotchmer Street,Best Street,Birkenhead Street,Fitzroy North,East/North,4494,West/South,4467,8961,42.8
+2009-Nov,Easey Street,Budd Street,Smith Street,Collingwood,East/North,596,West/South,519,1115,36.7
+2009-Nov,Fenwick Street,O'Grady Street,Spensley Street,Clifton Hill,East/North,2760,West/South,1056,3816,38.5
+2009-Nov,Hotham Street,Emma Street,Wellington Street,Collingwood,East/North,206,West/South,243,449,47.9
+2009-Nov,Keele Street,Budd Street,Smith Street,Collingwood,East/North,498,West/South,434,932,41
+2009-Nov,Lane number 307,Nicholson Street,Park Street,Abbotsford,East/North,23,West/South,20,43,28.4
+2009-Nov,Little Smith Street,Gertrude Street,Victoria Street,Fitzroy,East/North,50,West/South,76,126,28.4
+2009-Nov,Mater Street,Smith Street,Wellington Street,Collingwood,East/North,375,West/South,460,835,40.3
+2009-Nov,Park Grove,Brooks Street,Survey Street,Richmond,East/North,121,West/South,102,223,38.9
+2009-Nov,Parkins Lane,Cremorne Street,Wellington Street,Richmond,East/North,19,West/South,52,71,24.8
+2009-Nov,Rae Street,Reid Street,Scotchmer Street,Fitzroy North,East/North,447,West/South,970,1417,42.5
+2009-Nov,Sackville Street,Budd Street,Smith Street,Collingwood,East/North,536,West/South,549,1085,46.4
+2009-Nov,White Street,Glenlyon Road,Pleasance Street,Fitzroy North,East/North,659,West/South,467,1126,46.1
+2018-Dec,Clifford Place,Williams Street,Louise Street,Clifton Hill,East/North,80,West/South,25,105,24.5
+2018-Dec,Gipps Street,Church Street,Dickmann Street,Richmond,East/North,1941,West/South,2117,4058,36.2
+2018-Dec,Little Nicholson Street,Mollison Street,Victoria Street,Abbotsford,East/North,99,West/South,62,161,30.4
+2018-Dec,Melville Street,Barkly Street,Clauscen Street,Fitzroy North,East/North,162,West/South,269,431,33.8
+2018-Dec,Paterson Street,Wilson Street,McIlwraith Street,Princes Hill,East/North,1189,West/South,303,1492,46.98
+2017-Dec,Albert Street,Murray Street,Victoria Crescent,Abbotsford,East/North,6845,West/South,7063,13908,28.4
+2017-Dec,Barkly Street,Nicholson Street,Rae Street,Fitzroy North,East/North,721,West/South,680,1401,38.4
+2017-Dec,Barkly Street,Dean Street,Rae Street,Fitzroy North,East/North,721,West/South,1421,2142,37.9
+2017-Dec,Bliss Street,Burnley Street,Cutter Street,Richmond,East/North,272,West/South,19,291,25.9
+2017-Dec,Brooks Street,Bendigo Street,Park Grove,Richmond,East/North,146,West/South,128,274,36.4
+2017-Dec,Bunting Street,Farmer Street,Manton Street,Richmond,East/North,2,West/South,312,314,33.1
+2017-Dec,Fairchild Street,Nelson Street,Victoria Street,Abbotsford,East/North,8,West/South,236,244,33.5
+2017-Dec,Jago Street,Barnett Way,Bendigo Street,Richmond,East/North,400,West/South,310,710,31
+2017-Dec,Lane number 2087,Scotchmer Street,Tranmere Street,Fitzroy North,East/North,5,West/South,6,11,19.1
+2017-Dec,Park Street,Gipps Street,Langridge Street,Abbotsford,East/North,373,West/South,6,379,42.8
+2017-Dec,Raphael Street,Gipps Street,Langridge Street,Abbotsford,East/North,131,West/South,138,269,40
+2017-Dec,Stanton Street,Eddy Court,Hoddle Street,Abbotsford,East/North,399,West/South,406,805,33.2
+2017-Dec,Victoria Crescent,Gipps Street,Mollison Street,Abbotsford,East/North,5669,West/South,6437,12106,41.4
+2017-Dec,Wertheim Street,Jago Street,Kennedy Avenue,Richmond,East/North,213,West/South,5,218,32
+2014-Dec,Alphington Street,Heidelberg Road,Park Crescent,Alphington,East/North,214,West/South,247,461,39.2
+2014-Dec,Austin Street,Heidelberg Road,Park Crescent,Alphington,East/North,172,West/South,215,387,36.7
+2014-Dec,Bosisto Street,Cameron Street,Hull Street,Richmond,East/North,381,West/South,355,736,34.6
+2014-Dec,Chapel Street,Napier Street,Young Street,Fitzroy,East/North,548,West/South,170,718,32
+2014-Dec,Como Street,Chamouni Street,St Bernards Road,Alphington,East/North,693,West/South,559,1252,41.4
+2014-Dec,Constance Street,Como Street,Lucerne Crescent,Alphington,East/North,138,West/South,226,364,38.9
+2014-Dec,Gore Street,Gertrude Street,Little Victoria Street,Fitzroy,East/North,615,West/South,606,1221,42.1
+2014-Dec,Gore Street,Gertrude Street,Webb Street,Fitzroy,East/North,1222,West/South,620,1842,37.4
+2014-Dec,Hodgkinson Street,Gold Street,Turnbull Street,Clifton Hill,East/North,806,West/South,372,1178,33.8
+2014-Dec,James Street,Brighton Street,Mary Street,Richmond,East/North,508,West/South,555,1063,38.9
+2014-Dec,James Street,Brighton Street,Mary Street,Richmond,East/North,576,West/South,584,1160,36
+2014-Dec,Lucerne Crescent,Geneva Road,St Gothards Road,Alphington,East/North,134,West/South,129,263,40.3
+2014-Dec,Lucerne Crescent,Chamouni Street,Constance Street,Alphington,East/North,390,West/South,503,893,37.1
+2014-Dec,Moor Street,George Street,Gore Street,Fitzroy,East/North,1104,West/South,563,1667,35.3
+2014-Dec,Napier Street,Gertrude Street,Victoria Parade,Fitzroy,East/North,134,West/South,561,695,41.4
+2014-Dec,Napier Street,Moor Street,St David Street,Fitzroy,East/North,502,West/South,647,1149,37.1
+2014-Dec,Park Crescent,Panther Place,Station Street,Alphington,East/North,332,West/South,293,625,32
+2014-Dec,St Bernards Road,Como Street,Lucerne Crescent,Alphington,East/North,128,West/South,241,369,36.7
+2014-Dec,Tanner Street,Tyson Street,Woodlawn Street,Richmond,East/North,336,West/South,435,771,35.6
+2014-Dec,Victoria Street,Fitzroy Street,Nicholson Street,Fitzroy,East/North,993,West/South,473,1466,37.4
+2014-Dec,View Street,Riverview Grove,Lucerne Crescent,Alphington,East/North,565,West/South,342,907,41.4
+2014-Dec,Woodlawn Street,Richmond Terrace,Sutton Grove,Richmond,East/North,105,West/South,407,512,32.4
+2014-Dec,Yarra Bend Road,Fairlea Road,Heidelberg Road,Alphington,East/North,1820,West/South,1783,3603,44.3
+2014-Dec,Yarralea Street,Gibson Street,Killop Street,Alphington,East/North,535,West/South,773,1308,36
+2014-Dec,Young Street,Gertrude Street,Graham Street,Fitzroy,East/North,488,West/South,29,517,33.1
+2013-Dec,Campbell Street,McCutcheon Way,Gipps Street,Collingwood,East/North,12,West/South,510,522,37.8
+2013-Dec,Campbell Street,McCutcheon Way,Vere Street,Collingwood,East/North,486,West/South,595,1081,35.6
+2013-Dec,Derby Street,Little Oxford Street,Smith Street,Collingwood,East/North,483,West/South,1190,1673,41
+2013-Dec,Islington Street,Langridge Street,Victoria Parade,Collingwood,East/North,525,West/South,60,585,40.7
+2013-Dec,Little Oxford Street,Langridge Street,Peel Street,Collingwood,East/North,433,West/South,13,446,34.2
+2013-Dec,McCutcheon Way,Campbell Street,Cromwell Street,Collingwood,East/North,325,West/South,962,1287,34.9
+2013-Dec,North Terrace,Gold Street,Hoddle Street,Clifton Hill,East/North,764,West/South,706,1470,38.5
+2013-Dec,Spring Street,Argyle Street,Johnston Street,Fitzroy,East/North,604,West/South,376,980,32.8
+2012-Dec,Botherambo Street,Swan Street,Tanner Street,Richmond,East/North,245,West/South,7,252,42.5
+2012-Dec,Darlington Parade,Church Street,Waltham Street,Richmond,East/North,544,West/South,563,1107,40.7
+2012-Dec,Gipps Street,Carroll Street,Lennox Street,Richmond ,East/North,998,West/South,1797,2795,38.9
+2012-Dec,Goodwood Street,Fordham Street,Waltham Street,Richmond ,East/North,518,West/South,597,1115,36.7
+2012-Dec,Mater Street,Charlotte Street,Wellington Street,Collingwood ,East/North,478,West/South,380,858,35.6
+2012-Dec,Richmond Terrace,Alfred Street,Miller Street,Richmond ,East/North,138,West/South,471,609,31.7
+2012-Dec,Rotherwood Street,The Crofts,Goodwood Street,Richmond ,East/North,352,West/South,619,971,55.3
+2012-Dec,Rowena Parade,Portland Street,The Vaucluse,Richmond ,East/North,307,West/South,394,701,38.5
+2012-Dec,Stewart Street,Margaret Street,Tennyson Street,Richmond ,East/North,895,West/South,415,1310,36.7
+2012-Dec,The Vaucluse,Church Street,Rowena Parade,Richmond ,East/North,229,West/South,324,553,32.8
+2012-Dec,Waltham Street,Berry Street,Hodgson Terrace,Richmond ,East/North,469,West/South,517,986,35.6
+2012-Dec,Woodlawn Street,Richmond Terrace,Sutton Grove,Richmond ,East/North,109,West/South,417,526,34.2
+2011-Dec,Rae Street,Holden Street,Park Street,Fitzroy North,East/North,578,West/South,754,1332,36
+2011-Dec,Somerset Street,Burnley Street,Davison Street,Richmond,East/North,867,West/South,468,1335,44.6
+2010-Dec,Field Street,Ramsden Street,Roseneath Street,Clifton Hill,East/North,261,West/South,981,1242,47.2
+2010-Dec,Gordon Street,Ramsden Street,Roseneath Street,Clifton Hill,East/North,898,West/South,4,902,43.9
+2010-Dec,Gray Street,Noone Street,Roseneath Street,Clifton Hill,East/North,2839,West/South,2520,5359,43.9
+2010-Dec,Groom Street,Noone Street,Roseneath Street,Clifton Hill,East/North,481,West/South,436,917,40.7
+2010-Dec,Kiewa Street,Dally Street,Roseneath Street,Clifton Hill,East/North,168,West/South,119,287,31.3
+2010-Dec,Noone Street,Gray Street,Groom Street,Clifton Hill,East/North,465,West/South,1618,2083,46.4
+2010-Dec,Roseneath Street,Field Street,Gray Street,Clifton Hill,East/North,388,West/South,1067,1455,43.6
+2010-Dec,Roseneath Street,Gray Street,Kiewa Street,Clifton Hill,East/North,2392,West/South,1444,3836,41
+2010-Dec,Rutland Street,Noone Street,Roseneath Street,Clifton Hill,East/North,606,West/South,618,1224,46.8
+2010-Dec,Yambla Street,Ramsden Street,Roseneath Street,Clifton Hill,East/North,1952,West/South,51,2003,36.4
+2009-Dec,Canning Street,Davis Street,Princes Street,Carlton North,East/North,238,West/South,343,581,38.2
+2009-Dec,Canning Street,Davis Street,Lee Street,Carlton North,East/North,669,West/South,364,1033,39.6
+2009-Dec,Charles Street,Gipps Street,Vere Street,Abbotsford,East/North,211,West/South,259,470,46.4
+2009-Dec,Davis Street,Canning Street,Rathdowne Street,Carlton North,East/North,571,West/South,94,665,49.7
+2009-Dec,Hotham Street,Emma Street,Wellington Street,Collingwood,East/North,413,West/South,407,820,38.9
+2009-Dec,Lee Street,Nicholson Street,Station Street,Carlton North,East/North,266,West/South,98,364,37.8
+2009-Dec,Lee Street,Canning Street,Rathdowne Street,Carlton North,East/North,425,West/South,13,438,36
+2009-Dec,Lee Street,Canning Street,Station Street,Carlton North,East/North,458,West/South,461,919,37.8
+2009-Dec,Station Street,Lee Street,Princes Street,Carlton North,East/North,145,West/South,635,780,38.9
+2009-Dec,Station Street,Lee Street,Newry Street,Carlton North,East/North,202,West/South,904,1106,42.8
+2009-Dec,Taylor Street,Glenlyon Road,Miller Street,Fitzroy North,East/North,214,West/South,162,376,46.7
+2009-Dec,Wellington Street,Council Street,Kent Street,Clifton Hill,East/North,3426,West/South,3412,6838,39.2
